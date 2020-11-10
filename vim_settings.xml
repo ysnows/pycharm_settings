@@ -131,9 +131,6 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1599557681898">
-        <mark key="[" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/www/php_supersearch/config/cache.php" timestamp="1599733537159">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
@@ -181,6 +178,13 @@
         <mark key="^" line="123" column="47" />
         <mark key="." line="123" column="46" />
       </file>
+      <file name="$USER_HOME$/www/php_xinyunbida/public/index.php" timestamp="1605023452707">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/www/php_heifengwuliu/application/api/controller/User.php" timestamp="1599732848614">
         <mark key="[" line="52" column="12" />
         <mark key="]" line="52" column="12" />
@@ -212,9 +216,14 @@
         <mark key="^" line="82" column="21" />
         <mark key="." line="82" column="20" />
       </file>
+      <file name="$USER_HOME$/www/php_xinyunbida/thinkphp/library/think/Container.php" timestamp="1605023462390">
+        <mark key="[" line="129" column="28" />
+        <mark key="]" line="129" column="28" />
+        <mark key="^" line="129" column="28" />
+        <mark key="." line="129" column="27" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="24" filename="$USER_HOME$/www/php_ulove520/application/admin/conf/menu.php" />
       <jump line="593" column="36" filename="$USER_HOME$/www/php_ulove520/application/admin/conf/menu.php" />
       <jump line="59" column="6" filename="$USER_HOME$/www/php_ulove520/application/admin/controller/Member.php" />
       <jump line="808" column="25" filename="$USER_HOME$/www/php_ulove520/application/admin/controller/System.php" />
@@ -314,6 +323,7 @@
       <jump line="12" column="3" filename="$USER_HOME$/www/php_supersearch/application/api/model/VipOrderModel.php" />
       <jump line="87" column="38" filename="&lt;e22e3083-3818-41ad-b30b-0f04b5c9e4b4&gt;/runtime/log/20200907.log" />
       <jump line="11" column="43" filename="&lt;e22e3083-3818-41ad-b30b-0f04b5c9e4b4&gt;/runtime/log/20200908.log" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/php_xinyunbida/public/index.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
