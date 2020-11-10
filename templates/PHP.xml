@@ -18,15 +18,6 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="apidoc" value="    /**&#10;     * @api {$method$} /$group$/$name$ $desc$&#10;     * @apiName $name$&#10;     * @apiGroup $group$&#10;     * @apiVersion 0.1.1&#10;     *&#10;     * @apiHeader {Number} uid 用户ID&#10;     *&#10;     *&#10;     * @apiSuccessExample 成功:&#10;     * {&quot;code&quot;:200,&quot;msg&quot;:&quot;操作成功&quot;}&#10;     *&#10;     * @apiErrorExample 错误:&#10;     *    {&quot;code&quot;:201,&quot;msg&quot;:&quot;错误信息&quot;}&#10;     */" description="apidcoc" toReformat="true" toShortenFQNames="true">
-    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="group" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
   <template name="emp" value="        $this-&gt;checkEmpty($this-&gt;$method$('$field$'),&quot;$field$&quot;);&#10;" description="checkempty" toReformat="true" toShortenFQNames="true">
     <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />

@@ -7,9 +7,6 @@
       <webServer id="646c0edb-faa7-4f92-a9b9-286f0e1f5925" name="dinner" url="http://dinner.ysnows.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="b0fda2ca-3f83-49ac-94fc-132cae9782ca" name="supersearch" url="http://ss.ysnows.com">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
     </option>
   </component>
 </application>

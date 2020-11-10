@@ -40,6 +40,7 @@
   </action>
   <action id="CIDR.Lang.IntroduceTypedef" />
   <action id="CallHierarchy" />
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject" />
   <action id="Console.TableResult.CompareCells" />
   <action id="ConvertJavaToKotlin" />
@@ -49,6 +50,9 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="DuplicatesForm.SendToLeft">
+    <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="ECTranslation" />
@@ -73,6 +77,7 @@
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="EditorLeftWithSelection">
@@ -84,12 +89,6 @@
     <keyboard-shortcut first-keystroke="meta right" />
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="ctrl meta l" />
-  </action>
-  <action id="EditorLineStart">
-    <keyboard-shortcut first-keystroke="home" />
-    <keyboard-shortcut first-keystroke="meta left" />
-    <keyboard-shortcut first-keystroke="ctrl a" />
-    <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
   <action id="EditorMoveToPageBottom">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
@@ -104,6 +103,7 @@
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="EditorRightWithSelection">
@@ -111,12 +111,15 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
   <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="FileChooser.GotoHome">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
   <action id="FileChooser.GotoModule" />
-  <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.GotoProject">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="meta k" />
@@ -128,6 +131,7 @@
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
+  <action id="Git.Commit.And.Push.Executor" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
@@ -142,6 +146,8 @@
     <keyboard-shortcut first-keystroke="ctrl meta up" />
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
+  <action id="GotoSymbol" />
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="meta 0" />
@@ -151,18 +157,18 @@
     <keyboard-shortcut first-keystroke="meta f10" />
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
-  <action id="List-selectNextColumn">
-    <keyboard-shortcut first-keystroke="right" />
-    <keyboard-shortcut first-keystroke="ctrl l" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="meta alt k" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="meta alt j" />
   </action>
   <action id="MethodDown">
-    <keyboard-shortcut first-keystroke="ctrl down" />
-    <keyboard-shortcut first-keystroke="ctrl meta k" />
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
   </action>
   <action id="MethodHierarchy" />
   <action id="MethodUp">
-    <keyboard-shortcut first-keystroke="ctrl up" />
-    <keyboard-shortcut first-keystroke="ctrl meta j" />
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
   </action>
   <action id="NewElementSamePlace" />
   <action id="NextTab">
@@ -172,6 +178,9 @@
   </action>
   <action id="OverrideMethods" />
   <action id="PasteMultiple" />
+  <action id="PhpGeneratePhpDocBlocks">
+    <keyboard-shortcut first-keystroke="ctrl meta slash" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
@@ -188,8 +197,14 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="RecentLocations" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="meta alt back_space" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
@@ -198,9 +213,15 @@
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
   <action id="RunInspection" />
+  <action id="SaveAs" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="ctrl meta g" />
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
+  <action id="ServiceView.GroupByServiceGroups" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="meta f3" />
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
@@ -213,10 +234,19 @@
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="shift alt j" />
   </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta alt t" />
     <keyboard-shortcut first-keystroke="shift meta y" />
   </action>
+  <action id="SurroundWithLiveTemplate" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -232,14 +262,15 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
-  <action id="Table-selectNextColumn">
-    <keyboard-shortcut first-keystroke="right" />
-    <keyboard-shortcut first-keystroke="ctrl l" />
-  </action>
-  <action id="TodoViewGroupByFlattenPackage" />
+  <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="meta f8" />
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+    <keyboard-shortcut first-keystroke="meta alt h" />
   </action>
   <action id="TypeHierarchy" />
   <action id="Uml.ShowDiff" />
@@ -247,12 +278,6 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
-  </action>
-  <action id="VimMotionWordLeft">
-    <keyboard-shortcut first-keystroke="ctrl b" />
-  </action>
-  <action id="VimMotionWordRight">
-    <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="WebServicesPlugin.CreateRESTClient">
     <keyboard-shortcut first-keystroke="meta 4" />

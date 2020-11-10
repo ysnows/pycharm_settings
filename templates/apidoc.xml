@@ -1,0 +1,45 @@
+<templateSet group="apidoc">
+  <template name="apidoc" value="    /**&#10;     * @api {$method$} $url$&#10;     * @apiName $name$&#10;     * @apiGroup $group$&#10;     * &#10;     * $other$&#10;     */" description="apidcoc" toReformat="true" toShortenFQNames="true">
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="group" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="other" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Interface Member" value="true" />
+    </context>
+  </template>
+  <template name="apipa" value="apiParam {$type$} $name$ $desc$" description="apiParam" toReformat="true" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="'String'" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+  <template name="apidep" value="apiDeprecated" description="apiDeprecated" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+  <template name="apiig" value="apiIgnore" description="apiIgnore" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+  <template name="apisuc" value="apiSuccess {$type$} $name$ $desc$" description="apiSuccess" toReformat="true" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="'String'" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+  <template name="apides" value="apiDescription  $desc$" description="apiDescription" toReformat="true" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+</templateSet>

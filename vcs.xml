@@ -79,7 +79,47 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@git.quansu.com:ysnows/java_traffic.git" />
+          <option name="url" value="https://git.quansuwangluo.com/ysnows/php_need.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.quansuwangluo.com/ysnows/php_zoupingfuyou.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.quansuwangluo.com/ysnows/php_zouping_his.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.quansuwangluo.com/ysnows/php_his.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.quansuwangluo.com/ysnows/php_jinhairui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.quansuwangluo.com/ysnows/h5_quansuwangluo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:ysnow/php_supersearch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.quansuwangluo.com/ysnows/php_aokaikejiao_cms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.quansuwangluo.com/ysnows/php_questionnaire.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.quansuwangluo.com/ysnows/php_heifengwuliu.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.quansuwangluo.com/ysnows/php_apply.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
