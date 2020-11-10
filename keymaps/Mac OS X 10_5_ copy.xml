@@ -5,12 +5,18 @@
   <action id="ActivateChangesToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateMessagesToolWindow" />
   <action id="ActivatePreviewToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateRemoteHostToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateSympliToolWindow">
@@ -36,8 +42,10 @@
   <action id="CallHierarchy" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject" />
+  <action id="Console.TableResult.CompareCells" />
   <action id="ConvertJavaToKotlin" />
   <action id="CopyPaths" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -205,6 +213,7 @@
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
   <action id="RunInspection" />
+  <action id="SaveAs" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="ctrl meta g" />
     <keyboard-shortcut first-keystroke="shift meta l" />
@@ -264,6 +273,7 @@
     <keyboard-shortcut first-keystroke="meta alt h" />
   </action>
   <action id="TypeHierarchy" />
+  <action id="Uml.ShowDiff" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
