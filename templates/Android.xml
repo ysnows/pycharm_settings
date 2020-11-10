@@ -1,0 +1,167 @@
+<templateSet group="Android">
+  <template name="psb" value="android.content.SharedPreferences sharedPreferences =     &#10;  getPreferences(Context.MODE_PRIVATE);&#10;android.content.SharedPreferences.Editor editor = &#10;  sharedPreferences.edit();&#10;editor.putBoolean(getString(R.string.$stringVal$), $spVal$);&#10;editor.apply();" description="put sharedpreferences with boolean value" toReformat="true" toShortenFQNames="true">
+    <variable name="stringVal" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="spVal" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="newInstance" value="&#10;private static $Fragment$ fragment = null;&#10;&#10;public static $Fragment$ newInstance() {&#10;    if (fragment == null) {&#10;        fragment = new $Fragment$();&#10;    }&#10;    return fragment;&#10;}" description="create a new Fragment instance with arguments" toReformat="true" toShortenFQNames="true">
+    <variable name="Fragment" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="limg" value="&#10;com.ysnows.utils.glide.GlideUtils.lImg($context$,$url$,$view$);&#10;" description="网络加载图片" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="context" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="view" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sbList" value="rx.Subscription subscription = com.utils.NetEngine.getService()&#10;        .$Method$($params$)&#10;        .subscribeOn(rx.schedulers.Schedulers.io())&#10;        .observeOn(rx.android.schedulers.AndroidSchedulers.mainThread())&#10;        .subscribe(new com.utils.SB&lt;com.utils.RES&lt;java.util.ArrayList&lt;$data$&gt;&gt;&gt;() {&#10;            @Override&#10;            public void next(com.utils.RES&lt;java.util.ArrayList&lt;$data$&gt;&gt; res) {&#10;                if (res.isOk(view.getContext())) {&#10;                    view.bindData(res.data);&#10;                }&#10;&#10;            }&#10;&#10;            @Override&#10;            public void onCompleted() {&#10;                view.refresh(false);&#10;&#10;            }&#10;&#10;            @Override&#10;            public void onError(Throwable e) {&#10;                view.refresh(false);&#10;            }&#10;        });&#10;&#10;&#10;        addSubscription(subscription);" description="网络请求返回List" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="Method" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ir" value="&lt;com.ysnows.external.irecyclerview.IRecyclerView&#10;                                         android:id=&quot;@+id/iRecyclerView&quot;&#10;                                         xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;                                         xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;&#10;                                         android:layout_width=&quot;match_parent&quot;&#10;                                         android:layout_height=&quot;match_parent&quot;&#10;                                         android:background=&quot;@color/white&quot;&#10;                                         app:loadMoreEnabled=&quot;true&quot;&#10;                                         app:loadMoreFooterLayout=&quot;@layout/layout_irecyclerview_load_more_footer&quot;&#10;                                         app:refreshEnabled=&quot;true&quot;&#10;                                         app:refreshHeaderLayout=&quot;@layout/layout_irecyclerview_refresh_header&quot;&#10;/&gt;" description="IRecyclerView模板" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+    </context>
+  </template>
+  <template name="st" value="vHolder.$View$.setText(item$text$);" description="ViewHolder设置文字" toReformat="true" toShortenFQNames="true">
+    <variable name="View" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="irf" value="&#10;    &lt;FrameLayout android:id=&quot;@+id/lay_body&quot;&#10;                 android:layout_width=&quot;match_parent&quot;&#10;                 android:layout_height=&quot;match_parent&quot;&#10;                 android:background=&quot;@color/white&quot;&gt;&#10;&#10;        &lt;com.ysnows.external.irecyclerview.IRecyclerView&#10;            android:id=&quot;@+id/iRecyclerView&quot;&#10;            android:layout_width=&quot;match_parent&quot;&#10;            android:layout_height=&quot;match_parent&quot;&#10;            android:background=&quot;@color/white&quot;&#10;            app:loadMoreEnabled=&quot;true&quot;&#10;             app:layoutManager=&quot;@string/linear_layout_manager&quot;&#10;&#10;            app:loadMoreFooterLayout=&quot;@layout/layout_irecyclerview_load_more_footer&quot;&#10;            app:refreshEnabled=&quot;true&quot;&#10;            app:refreshHeaderLayout=&quot;@layout/layout_irecyclerview_refresh_header&quot;&#10;        /&gt;&#10;&#10;&#10;    &lt;/FrameLayout&gt;" description="IRecyclerView和FlaotActionButton" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="lt" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;LinearLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;              android:layout_width=&quot;match_parent&quot;&#10;              android:layout_height=&quot;match_parent&quot;&#10;                            android:fitsSystemWindows=&quot;true&quot;&#10;&#10;              android:orientation=&quot;vertical&quot;&gt;&#10;&#10;&#10;    &lt;com.muyoudaoli.ui.widget.common.TitleBarTwo&#10;        android:id=&quot;@+id/title_bar&quot;&#10;        android:layout_width=&quot;match_parent&quot;&#10;        android:layout_height=&quot;48dp&quot;&#10;    &gt;&#10;    &lt;/com.muyoudaoli.ui.widget.common.TitleBarTwo&gt;&#10;&#10;&#10;&lt;/LinearLayout&gt;&#10;" description="LinearLayout包含TitleBar" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="ai" value="   &#10;    if ($iInteract$ == null) {&#10;        $iInteract$ = new $Interact$();&#10;        $iInteract$.attachView(this);&#10;            addInteract($iInteract$);&#10;        }&#10;" description="添加interact" toReformat="true" toShortenFQNames="true">
+    <variable name="iInteract" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Interact" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="nemp" value="if (!TextUtils.isEmpty($str$)) {&#10;            &#10;        }" description="判断字符串不为空" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sbp" value="Subscription subscription = NetEngine.getService()&#10;                .$Method$($params$)&#10;                .subscribeOn(Schedulers.io())&#10;                .doOnSubscribe(() -&gt; Dialog.showProgressingDialog(view.getContext()))&#10;                .subscribeOn(AndroidSchedulers.mainThread())&#10;                .observeOn(AndroidSchedulers.mainThread())&#10;                .subscribe(new SB&lt;$data$&gt;() {&#10;                    @Override&#10;                    public void next($data$ res) {&#10;                        &#10;&#10;                    }&#10;&#10;                    @Override&#10;                    public void onCompleted() {&#10;                      Dialog.dismissProgressDialog();&#10;                        &#10;                    }&#10;&#10;                    @Override&#10;                    public void onError(Throwable e) {&#10;                       Dialog.dismissProgressDialog();&#10;                    }&#10;                });&#10;&#10;        addSubscription(subscription);" description="带有加载中的网络请求" toReformat="true" toShortenFQNames="true">
+    <variable name="Method" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="gext" value=" Bundle extras = getIntent().getExtras();&#10;        if (extras != null) {&#10;            $content$&#10;        }" description="获取bundle并判断不是null" toReformat="true" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="newInstanceBun" value="&#10;private static $Fragment$ fragment = null;&#10;&#10;public static $Fragment$ newInstance(android.os.Bundle bundle) {&#10;    if (fragment == null) {&#10;        fragment = new $Fragment$();&#10;        fragment.setArguments(bundle);&#10;    }&#10;    return fragment;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="Fragment" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="sb" value="rx.Subscription subscription = com.utils.NetEngine.getService()&#10;        .$Method$($params$)&#10;        .subscribeOn(rx.schedulers.Schedulers.io())&#10;        .observeOn(rx.android.schedulers.AndroidSchedulers.mainThread())&#10;        .subscribe(new com.utils.SB&lt;com.utils.RES&lt;$data$&gt;&gt;() {&#10;            @Override&#10;            public void next(com.utils.RES&lt;$data$&gt; res) {&#10;                if (res.isOk(view.getContext())) {&#10;                    view.set$data$(res.data);&#10;                }&#10;            }&#10;            @Override&#10;            public void onCompleted() {&#10;               &#10;&#10;            }&#10;&#10;            @Override&#10;            public void onError(Throwable e) {&#10;               &#10;            }&#10;        });&#10;&#10;&#10;        addSubscription(subscription);" description="网络请求返回Object" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="Method" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="nNet" value=" if (!com.ysnows.utils.NetUtils.isNetAvailable(view.getContext())) {&#10;            view.onError(com.ysnows.common.mvp.BaseView.ERROR_NO_NET, (v) -&gt; $method$);&#10;        } else {&#10;           $replacement$&#10;        }" description="没有网络判断" toReformat="true" toShortenFQNames="true">
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="replacement" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lbody" value="  &lt;FrameLayout android:id=&quot;@+id/lay_body&quot;&#10;                 android:layout_width=&quot;match_parent&quot;&#10;                 android:layout_height=&quot;match_parent&quot;&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="limgr" value="com.ysnows.utils.glide.GlideUtils.lImgRound($context$,$url$,$view$);" description="" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="context" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="view" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="limgc" value="com.ysnows.utils.glide.GlideUtils.lImgCircle($context$,$url$,$view$);" description="" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="context" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="view" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="emp" value="if (TextUtils.isEmpty($str$)) {&#10;            $content$&#10;        }" description="判断字符串为空" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="post" value="com.ysnows.utils.RxBus.bus().post($obj$);" description="Rxbus post" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="obj" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fc" value="($cast$) findViewById(R.id.$resId$);" description="findViewById with cast" toReformat="true" toShortenFQNames="true">
+    <variable name="cast" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="resId" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tab" value="  _Viewpager.setOffscreenPageLimit(3);&#10;        java.util.ArrayList tabs = new com.ysnows.utils.AList&lt;TAB&gt;()&#10;                .add(new com.ysnows.common.mvp.TAB(&quot;&quot;, $fragment$.newInstance(), new com.ysnows.utils.BUN().ok()))&#10;                .add(new com.ysnows.common.mvp.TAB(&quot;&quot;, $fragment$.newInstance(), new com.ysnows.utils.BUN().ok()))&#10;                .add(new com.ysnows.common.mvp.TAB(&quot;&quot;, $fragment$.newInstance(), new com.ysnows.utils.BUN().ok()))&#10;                .ok();&#10;&#10;        com.ysnows.common.ui.FragmentAdapter fragmentAdapter = new  com.ysnows.common.ui.FragmentAdapter(getSupportFragmentManager(), tabs);&#10;        _Viewpager.setAdapter(fragmentAdapter);&#10;        _Viewpagertab.setupWithViewPager(_Viewpager);" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="fragment" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tabxml" value="    &lt;FrameLayout android:id=&quot;@+id/lay_body&quot;&#10;                 android:layout_width=&quot;match_parent&quot;&#10;                 android:layout_height=&quot;match_parent&quot;&#10;                 android:background=&quot;@color/white&quot;&gt;&#10;&#10;&#10;        &lt;android.support.design.widget.TabLayout&#10;            android:id=&quot;@+id/viewpagertab&quot;&#10;            android:layout_width=&quot;match_parent&quot;&#10;            android:layout_height=&quot;45dp&quot;&#10;            android:background=&quot;@color/white&quot;&#10;            android:elevation=&quot;0dp&quot;&#10;            app:tabGravity=&quot;fill&quot;&#10;            app:tabIndicatorColor=&quot;@color/colorPrimary&quot;&#10;            app:tabMode=&quot;fixed&quot;&#10;            app:tabSelectedTextColor=&quot;@color/text_black&quot;&#10;            app:tabTextColor=&quot;@color/text_color&quot;&#10;        &gt;&#10;        &lt;/android.support.design.widget.TabLayout&gt;&#10;&#10;&#10;        &lt;android.support.v4.view.ViewPager&#10;            android:id=&quot;@+id/viewpager&quot;&#10;            android:layout_width=&quot;match_parent&quot;&#10;            android:layout_height=&quot;match_parent&quot;&#10;            android:layout_marginTop=&quot;45dp&quot;&#10;        /&gt;&#10;    &lt;/FrameLayout&gt;&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="bus" value="com.ysnows.utils.RxBus.bus().toObserverable(com.ysnows.utils.Msg.class)&#10;                .doOnNext(msg -&gt; {&#10;                    $content$&#10;                })&#10;                .compose(bindToLifeCircle())&#10;                .subscribe();" description="注册bus" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="log" value="if (BuildConfig.DEBUG)Log.d(this.getClass().getName(),$content$);&#10;&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="to" value="com.ysnows.utils.Toasts.toast(getContext(),$str$);" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

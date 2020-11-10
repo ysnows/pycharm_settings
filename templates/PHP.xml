@@ -1,0 +1,34 @@
+<templateSet group="PHP">
+  <template name="rt" value="return $expression$;" description="return statement" toReformat="true" toShortenFQNames="true">
+    <variable name="expression" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="." value="-&gt;" description="&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="dbl" value="Db::name('$table$')" description="Db::name()" toReformat="true" toShortenFQNames="true">
+    <variable name="table" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="emp" value="        $this-&gt;checkEmpty($this-&gt;$method$('$field$'),&quot;$field$&quot;);&#10;" description="checkempty" toReformat="true" toShortenFQNames="true">
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
+  <template name="rv" value="return view($view$);" description="return view()" toReformat="true" toShortenFQNames="true">
+    <variable name="view" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>

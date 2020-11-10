@@ -1,0 +1,9 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
+    <notification groupId="Debugger" displayType="NONE" shouldLog="false" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Framework Detection" shouldLog="false" />
+    <notification groupId="JRebel for Android (Sticky)" displayType="STICKY_BALLOON" shouldLog="false" />
+  </component>
+</application>

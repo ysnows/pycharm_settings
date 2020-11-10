@@ -1,0 +1,394 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>wq</entry>
+        <entry>xm</entry>
+        <entry>Use.*</entry>
+        <entry>/Res</entry>
+        <entry>flow_git</entry>
+        <entry encoding="base64">XDxDb3B5cmlnaHRcPg==</entry>
+        <entry encoding="base64">XDx0aXRsZVw+</entry>
+        <entry>file</entry>
+        <entry>file-laoder</entry>
+        <entry>msg</entry>
+        <entry>redis</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
+        <entry>销售</entry>
+        <entry>fileurl_tmp</entry>
+        <entry>all</entry>
+        <entry>p</entry>
+        <entry>%p</entry>
+        <entry encoding="base64">XDxzdHJsZW5cPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>122</entry>
+        <entry>297</entry>
+        <entry>46</entry>
+        <entry>569</entry>
+        <entry>290</entry>
+        <entry>/file</entry>
+        <entry>/file-laoder</entry>
+        <entry>/msg</entry>
+        <entry>wq</entry>
+        <entry>109</entry>
+        <entry>83</entry>
+        <entry>53</entry>
+        <entry>44</entry>
+        <entry>15</entry>
+        <entry>%s/销售//g</entry>
+        <entry>8</entry>
+        <entry>778</entry>
+        <entry>786</entry>
+        <entry>571</entry>
+        <entry>316</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1599800044955">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/php_supersearch/application/api/model/UserModel.php" timestamp="1599557699366">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="27" />
+      </file>
+      <file name="$USER_HOME$/www/php_heifengwuliu/config/session.php" timestamp="1599733823603">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="18" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="29" column="18" />
+      </file>
+      <file name="$USER_HOME$/www/php_heifengwuliu/application/common.php" timestamp="1600409412155">
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="10" />
+        <mark key="^" line="22" column="10" />
+        <mark key="." line="22" column="9" />
+      </file>
+      <file name="$USER_HOME$/www/php_apply/App/User/Controller/ActivityController.class.php" timestamp="1600235577870">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="6" />
+      </file>
+      <file name="/a.dummy" timestamp="1599557681898">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/www/php_supersearch/config/cache.php" timestamp="1599733537159">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/php_xinong/App/Admin/Controller/OrderController.class.php" timestamp="1599796191905">
+        <mark key="[" line="115" column="162" />
+        <mark key="]" line="115" column="176" />
+        <mark key="^" line="115" column="166" />
+        <mark key="." line="115" column="165" />
+      </file>
+      <file name="$USER_HOME$/www/php_heifengwuliu/application/api/controller/Wechat.php" timestamp="1599800176319">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/www/php_heifengwuliu/application/api/controller/Amount.php" timestamp="1600415254156">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/php_heifengwuliu/application/api/controller/Index.php" timestamp="1599802621261">
+        <mark key="[" line="267" column="9" />
+        <mark key="]" line="267" column="9" />
+        <mark key="^" line="267" column="9" />
+        <mark key="." line="267" column="8" />
+      </file>
+      <file name="$USER_HOME$/www/php_heifengwuliu/config/cache.php" timestamp="1599733829067">
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/php_heifengwuliu/.gitignore" timestamp="1599620836719">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/www/php_heifengwuliu/application/admin/controller/User.php" timestamp="1599708364499">
+        <mark key="[" line="123" column="47" />
+        <mark key="]" line="123" column="47" />
+        <mark key="^" line="123" column="47" />
+        <mark key="." line="123" column="46" />
+      </file>
+      <file name="$USER_HOME$/www/php_heifengwuliu/application/api/controller/User.php" timestamp="1599732848614">
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="52" column="12" />
+        <mark key="^" line="52" column="12" />
+        <mark key="." line="52" column="11" />
+      </file>
+      <file name="$USER_HOME$/www/php_apply/App/Admin/Controller/ActivityController.class.php" timestamp="1600235027552">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="16" column="16" />
+        <mark key="." line="16" column="15" />
+      </file>
+      <file name="$USER_HOME$/www/php_heifengwuliu/config/wechat.php" timestamp="1599733791046">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+        <mark key="." line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/www/php_supersearch/application/api/controller/Alipay.php" timestamp="1599633482928">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="76" column="1" />
+        <mark key="]" line="76" column="1" />
+        <mark key="^" line="76" column="1" />
+        <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/php_heifengwuliu/application/api/controller/Address.php" timestamp="1600409385194">
+        <mark key="[" line="82" column="21" />
+        <mark key="]" line="82" column="21" />
+        <mark key="^" line="82" column="21" />
+        <mark key="." line="82" column="20" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="318" column="24" filename="$USER_HOME$/www/php_ulove520/application/admin/conf/menu.php" />
+      <jump line="593" column="36" filename="$USER_HOME$/www/php_ulove520/application/admin/conf/menu.php" />
+      <jump line="59" column="6" filename="$USER_HOME$/www/php_ulove520/application/admin/controller/Member.php" />
+      <jump line="808" column="25" filename="$USER_HOME$/www/php_ulove520/application/admin/controller/System.php" />
+      <jump line="284" column="21" filename="$USER_HOME$/www/php_ulove520/application/config.php" />
+      <jump line="87" column="12" filename="$USER_HOME$/www/php_ulove520/application/common/logic/OssLogic.php" />
+      <jump line="32" column="1" filename="$USER_HOME$/www/php_ulove520/application/api/config.php" />
+      <jump line="296" column="4" filename="$USER_HOME$/www/php_ulove520/application/common.php" />
+      <jump line="19" column="30" filename="$USER_HOME$/www/php_ulove520/application/api/controller/Uploadify.php" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/php_ulove520/application/api/controller/Uploadify.php" />
+      <jump line="34" column="15" filename="$USER_HOME$/www/php_ulove520/application/admin/controller/Uploadify.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/php_ulove520/index.php" />
+      <jump line="24" column="2" filename="$USER_HOME$/www/php_ulove520/index.php" />
+      <jump line="16" column="25" filename="$USER_HOME$/www/php_ulove520/public/static/admin/js/getting-started-md5.js" />
+      <jump line="166" column="34" filename="$USER_HOME$/www/php_ulove520/application/admin/template/uploadify/upload.htm" />
+      <jump line="595" column="18" filename="$USER_HOME$/www/php_ulove520/application/admin/controller/System.php" />
+      <jump line="493" column="42" filename="$USER_HOME$/www/php_ulove520/application/admin/controller/System.php" />
+      <jump line="806" column="24" filename="$USER_HOME$/www/php_ulove520/application/admin/controller/System.php" />
+      <jump line="47" column="12" filename="$USER_HOME$/www/php_ulove520/application/admin/template/system/oss.htm" />
+      <jump line="180" column="18" filename="$USER_HOME$/www/php_ulove520/application/admin/template/uploadify/upload.htm" />
+      <jump line="585" column="23" filename="http://ulove520.ysnows.com/public/plugins/webuploader/upload.js" />
+      <jump line="979" column="47" filename="http://ulove520.ysnows.com/public/plugins/webuploader/upload.js" />
+      <jump line="341" column="0" filename="http://ulove520.ysnows.com/public/plugins/webuploader/upload.js" />
+      <jump line="410" column="0" filename="http://ulove520.ysnows.com/public/plugins/webuploader/upload.js" />
+      <jump line="20" column="26" filename="$USER_HOME$/www/php_ulove520/application/admin/template/uploadify/upload.htm" />
+      <jump line="310" column="16" filename="$USER_HOME$/www/php_ulove520/public/plugins/webuploader/upload.js" />
+      <jump line="593" column="48" filename="$USER_HOME$/www/php_ulove520/public/plugins/webuploader/upload.js" />
+      <jump line="575" column="0" filename="$USER_HOME$/www/php_ulove520/public/plugins/webuploader/upload.js" />
+      <jump line="1014" column="11" filename="$USER_HOME$/www/php_ulove520/public/plugins/webuploader/upload.js" />
+      <jump line="81" column="11" filename="$USER_HOME$/www/php_ulove520/public/plugins/webuploader/upload.js" />
+      <jump line="31" column="4" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.collection.d.ts" />
+      <jump line="365" column="0" filename="$USER_HOME$/www/php_ulove520/public/plugins/webuploader/upload.js" />
+      <jump line="38" column="25" filename="$USER_HOME$/www/php_ulove520/application/admin/controller/Uploadify.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/php_ulove520/template/pc/footer.htm" />
+      <jump line="4" column="6" filename="$USER_HOME$/www/php_ulove520/core/library/think/db/driver/Driver.php" />
+      <jump line="762" column="36" filename="$USER_HOME$/www/php_ulove520/application/common.php" />
+      <jump line="115" column="31" filename="$USER_HOME$/www/php_ulove520/application/admin/template/ad_position/edit.htm" />
+      <jump line="28" column="17" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
+      <jump line="29" column="27" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
+      <jump line="32" column="21" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
+      <jump line="52" column="30" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
+      <jump line="55" column="21" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
+      <jump line="58" column="27" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
+      <jump line="38" column="18" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
+      <jump line="2" column="7" filename="$USER_HOME$/www/practice/c/hello.c" />
+      <jump line="4" column="0" filename="$USER_HOME$/CLionProjects/c/main.c" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/practice/c/main.c" />
+      <jump line="9" column="36" filename="$USER_HOME$/www/practice/c/main.c" />
+      <jump line="8" column="4" filename="$USER_HOME$/www/practice/c/main.c" />
+      <jump line="21" column="26" filename="$USER_HOME$/www/practice/c/main.c" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/practice/c/main.c" />
+      <jump line="104" column="5" filename="$USER_HOME$/www/practice/c/main.c" />
+      <jump line="39" column="0" filename="$USER_HOME$/www/practice/c/PointerReturn.c" />
+      <jump line="24" column="0" filename="$USER_HOME$/www/practice/c/main.c" />
+      <jump line="9" column="4" filename="$USER_HOME$/www/practice/c/enum.c" />
+      <jump line="30" column="31" filename="/usr/local/include/sys/_types/_size_t.h" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/practice/c/main.c" />
+      <jump line="20" column="4" filename="$USER_HOME$/www/practice/c/str_learn.c" />
+      <jump line="17" column="3" filename="$USER_HOME$/www/practice/c/str_learn.c" />
+      <jump line="23" column="0" filename="$USER_HOME$/www/practice/c/str_learn.c" />
+      <jump line="278" column="19" filename="$USER_HOME$/www/h5_quansuwangluo/src/views/main.vue" />
+      <jump line="155" column="2" filename="$USER_HOME$/www/h5_quansuwangluo/src/views/main.vue" />
+      <jump line="144" column="4" filename="$USER_HOME$/www/h5_quansuwangluo/public/index.html" />
+      <jump line="42" column="24" filename="$USER_HOME$/www/php_crm/application/api/controller/User.php" />
+      <jump line="95" column="23" filename="$USER_HOME$/www/h5_crm/src/views/main.vue" />
+      <jump line="767" column="0" filename="$USER_HOME$/www/h5_crm/src/api/mainpage.ts" />
+      <jump line="164" column="10" filename="$USER_HOME$/www/h5_crm/src/components/signin/location.vue" />
+      <jump line="121" column="4" filename="$USER_HOME$/www/php_supersearch/config/app.php" />
+      <jump line="67" column="4" filename="$USER_HOME$/www/php_supersearch/config/app.php" />
+      <jump line="32" column="4" filename="$USER_HOME$/www/php_xinong/App/Common/Conf/config.php" />
+      <jump line="19" column="6" filename="$USER_HOME$/www/php_xinong/App/Erp/Model/UserBalanceLogModel.class.php" />
+      <jump line="34" column="12" filename="$USER_HOME$/www/php_xinong/App/Erp/Model/OrderGoodsModel.class.php" />
+      <jump line="85" column="0" filename="$USER_HOME$/www/php_xinong/App/Erp/Model/OrderGoodsModel.class.php" />
+      <jump line="486" column="0" filename="$USER_HOME$/www/php_xinong/App/Erp/Controller/OrderController.class.php" />
+      <jump line="1374" column="0" filename="$USER_HOME$/www/php_xinong/App/Erp/Controller/OrderController.class.php" />
+      <jump line="1361" column="0" filename="$USER_HOME$/www/php_xinong/App/Erp/Controller/OrderController.class.php" />
+      <jump line="107" column="9" filename="$APPLICATION_PLUGINS_DIR$/doc_plugin.jar!/library/password/password.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/www/php_supersearch/config/app.php" />
+      <jump line="20" column="4" filename="$USER_HOME$/www/php_supersearch/config/app.php" />
+      <jump line="138" column="4" filename="$USER_HOME$/www/php_supersearch/config/app.php" />
+      <jump line="42" column="4" filename="$USER_HOME$/www/php_supersearch/application/api/controller/Login.php" />
+      <jump line="50" column="8" filename="$USER_HOME$/www/h5_crm/src/views/main.vue" />
+      <jump line="10" column="24" filename="$USER_HOME$/www/php_supersearch/application/api/controller/Alipay.php" />
+      <jump line="103" column="12" filename="$USER_HOME$/www/php_supersearch/application/common.php" />
+      <jump line="58" column="33" filename="$USER_HOME$/www/php_supersearch/application/api/controller/Alipay.php" />
+      <jump line="8" column="27" filename="$USER_HOME$/www/php_supersearch/application/api/controller/Alipay.php" />
+      <jump line="74" column="29" filename="$USER_HOME$/www/php_supersearch/application/api/controller/Login.php" />
+      <jump line="241" column="28" filename="$USER_HOME$/www/php_supersearch/extend/aop/AopClient.php" />
+      <jump line="43" column="22" filename="$USER_HOME$/www/php_supersearch/application/api/controller/Alipay.php" />
+      <jump line="55" column="40" filename="$USER_HOME$/www/php_supersearch/application/api/controller/Alipay.php" />
+      <jump line="0" column="0" filename="&lt;e22e3083-3818-41ad-b30b-0f04b5c9e4b4&gt;/runtime/log/202009/07.log" />
+      <jump line="512" column="19" filename="&lt;e22e3083-3818-41ad-b30b-0f04b5c9e4b4&gt;/runtime/log/202009/07.log" />
+      <jump line="45" column="0" filename="$USER_HOME$/www/php_supersearch/application/api/controller/Alipay.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/www/php_supersearch/application/api/controller/Alipay.php" />
+      <jump line="34" column="10" filename="$USER_HOME$/www/php_supersearch/application/api/controller/Task.php" />
+      <jump line="8" column="37" filename="&lt;e22e3083-3818-41ad-b30b-0f04b5c9e4b4&gt;/runtime/log/20200907.log" />
+      <jump line="199" column="13" filename="$USER_HOME$/www/php_supersearch/vendor/alipaysdk/easysdk/php/src/Kernel/EasySDKKernel.php" />
+      <jump line="12" column="3" filename="$USER_HOME$/www/php_supersearch/application/api/model/VipOrderModel.php" />
+      <jump line="87" column="38" filename="&lt;e22e3083-3818-41ad-b30b-0f04b5c9e4b4&gt;/runtime/log/20200907.log" />
+      <jump line="11" column="43" filename="&lt;e22e3083-3818-41ad-b30b-0f04b5c9e4b4&gt;/runtime/log/20200908.log" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIHt9ICAK</text>
+      </register>
+      <register name="-" type="4">
+        <text>buy</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzdHJsZW5cPg==</text>
+      </register>
+      <register name="0" type="4">
+        <text>appid</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIHt9ICAK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text>redis 缓存</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBMb2c6OmVycm9yKCRyZXMpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzdHJ0b3RpbWUoJysxIG1vbnRoJykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzdHJ0b3RpbWUoJysxIG1vbnRoJykK</text>
+      </register>
+      <register name="u" type="4">
+        <text />
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmOjp3aGVyZSgnb3JkZXJfbnVtYmVyJywgJG91dF90cmFkZV9ubykKICAgICAgICAgICAgLT53aGVyZSgnc3RhdHVzJywgT1JERVJfU1RBVFVTX1RPX1BBWSkKICAgICAgICAgICAgLT5zZXRGaWVsZCgnc3RhdHVzJywgT1JERVJfU1RBVFVTX1NVQ0NFU1MpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVmaW5lKCdPUkRFUl9TVEFUVVNfVE9fUEFZJywgMCk7Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>else{
+                
+            }</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjcmVhdGVfcmVzID0gJHZpcE9yZGVyTW9kZWwtPmNyZWF0ZU9yZGVyKCRzdWJqZWN0LCAkb3V0VHJhZGVObywgJHRvdGFsQW1vdW50LCAkdGhpcy0+dWlkKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>316</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxzdHJsZW5cPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxzdHJsZW5cPg==</last-pattern>
+      <last-replace />
+      <last-substitute>销售</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

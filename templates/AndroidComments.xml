@@ -1,0 +1,8 @@
+<templateSet group="AndroidComments">
+  <template name="kl" value="/** 说明:&#10; *$comment$&#10; */" description="学习的知识说明" toReformat="true" toShortenFQNames="true">
+    <variable name="comment" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

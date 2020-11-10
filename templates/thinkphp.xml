@@ -1,0 +1,26 @@
+<templateSet group="thinkphp">
+  <template name="d" value="$$$model$=D('$model$');" description="D()" toReformat="true" toShortenFQNames="true">
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dc" value="$$$model$=D('$model$');&#10;$$$model$-&gt;create()) or $this-&gt;ajax(false,$$$model$-&gt;getError());&#10;" description="D()  $D-&gt;create()" toReformat="true" toShortenFQNames="true">
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="m" value="$$$model$=M('$model$');" description="M()" toReformat="true" toShortenFQNames="true">
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="i" value="$$$param$=I('$param$');" description="I()" toReformat="true" toShortenFQNames="true">
+    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
