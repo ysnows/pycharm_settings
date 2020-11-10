@@ -1,0 +1,7 @@
+<templateSet group="java">
+  <template name="hbn_up" value="&lt;property name=&quot;connection.username&quot;&gt;ysnows&lt;/property&gt;&#10;        &lt;property name=&quot;connection.password&quot;&gt;531315&lt;/property&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3d22aa7c-11f8-49dc-be6a-713d29ec0711" name="jianshu" url="http://jianshu.ysnows.com/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="646c0edb-faa7-4f92-a9b9-286f0e1f5925" name="dinner" url="http://dinner.ysnows.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b0fda2ca-3f83-49ac-94fc-132cae9782ca" name="supersearch" url="http://ss.ysnows.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
