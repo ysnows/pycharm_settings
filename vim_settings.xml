@@ -145,11 +145,12 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/convert_project_config.py" timestamp="1605061821953">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="8" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/convert_project_config.py" timestamp="1605063321132">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/www/php_heifengwuliu/application/api/controller/Index.php" timestamp="1599802621261">
         <mark key="[" line="267" column="9" />
@@ -220,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="6" filename="$USER_HOME$/www/php_ulove520/application/admin/controller/Member.php" />
       <jump line="808" column="25" filename="$USER_HOME$/www/php_ulove520/application/admin/controller/System.php" />
       <jump line="284" column="21" filename="$USER_HOME$/www/php_ulove520/application/config.php" />
       <jump line="87" column="12" filename="$USER_HOME$/www/php_ulove520/application/common/logic/OssLogic.php" />
@@ -320,6 +320,7 @@
       <jump line="11" column="43" filename="&lt;e22e3083-3818-41ad-b30b-0f04b5c9e4b4&gt;/runtime/log/20200908.log" />
       <jump line="26" column="0" filename="$USER_HOME$/www/php_xinyunbida/public/index.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/Fly/flow_config/utils/convert_project_config.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/ysnows/utils/convert_project_config.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
