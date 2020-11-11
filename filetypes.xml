@@ -2,16 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="?????" type="PLAIN_TEXT" />
-      <mapping pattern="conf" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".revision" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern=".IndexController.class.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".IndexController.class.php.swp" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern=".revision" type="PLAIN_TEXT" />
+      <mapping pattern="conf" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="pid" type="PLAIN_TEXT" />
       <mapping ext="txt " type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="bac" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
