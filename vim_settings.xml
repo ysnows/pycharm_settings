@@ -122,6 +122,13 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="6" />
       </file>
+      <file name="$USER_HOME$/Desktop/Fly/flow_config/config/web.sh" timestamp="1606790001153">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="74" column="73" />
+        <mark key="]" line="74" column="101" />
+        <mark key="^" line="74" column="113" />
+        <mark key="." line="74" column="112" />
+      </file>
       <file name="$USER_HOME$/www/php_erp_xinong/application/admin/controller/Backup.php" timestamp="1605025253700">
         <mark key="[" line="34" column="21" />
         <mark key="]" line="34" column="21" />
@@ -132,12 +139,6 @@
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/php_heifengwuliu/application/api/controller/Wechat.php" timestamp="1599800176319">
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="19" />
-        <mark key="^" line="22" column="19" />
-        <mark key="." line="22" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/Fly/flow_config/config/playbook/add_new_service.yml" timestamp="1605063674127">
         <mark key="[" line="39" column="15" />
@@ -221,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="808" column="25" filename="$USER_HOME$/www/php_ulove520/application/admin/controller/System.php" />
       <jump line="284" column="21" filename="$USER_HOME$/www/php_ulove520/application/config.php" />
       <jump line="87" column="12" filename="$USER_HOME$/www/php_ulove520/application/common/logic/OssLogic.php" />
       <jump line="32" column="1" filename="$USER_HOME$/www/php_ulove520/application/api/config.php" />
@@ -321,6 +321,7 @@
       <jump line="26" column="0" filename="$USER_HOME$/www/php_xinyunbida/public/index.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/Fly/flow_config/utils/convert_project_config.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/ysnows/utils/convert_project_config.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/Fly/flow_config/config/web.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,7 +330,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>pstorm</text>
+        <text>/root/flow_config/config/oss/</text>
       </register>
       <register name="-" type="4">
         <text>pstorm</text>
@@ -338,7 +339,7 @@
         <text encoding="base64">XDxzdHJsZW5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>root_out_dir</text>
+        <text>/root/flow_config/config/oss/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG91dF9kaXIgPSAnL1VzZXJzL3lzbm93cy9Eb2N1bWVudHMveXNub3dzL3NldHRpbmdzL2pldEJyYWlucycKICAgIG91dF9kaXIgPSAie30ve30iLmZvcm1hdChvdXRfZGlyLCBwbGF0Zm9ybSkKCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMob3V0X2Rpcik6CiAgICAgICAgb3MubWtkaXIob3V0X2RpcikKICAgIGVsc2U6CiAgICAgICAgc2h1dGlsLnJtdHJlZShvdXRfZGlyKQogICAgICAgIG9zLm1rZGlyKG91dF9kaXIpCg==</text>
