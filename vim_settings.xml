@@ -184,11 +184,12 @@
         <mark key="^" line="55" column="9" />
         <mark key="." line="55" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/hello.py" timestamp="1610422675189">
-        <mark key="[" line="57" column="25" />
-        <mark key="]" line="57" column="25" />
-        <mark key="^" line="57" column="25" />
-        <mark key="." line="57" column="24" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/hello.py" timestamp="1610423444653">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="30" column="44" />
+        <mark key="^" line="30" column="32" />
+        <mark key="." line="30" column="31" />
       </file>
       <file name="$USER_HOME$/www/php_erp_xinong/application/admin/controller/Acl.php" timestamp="1605025229305">
         <mark key="[" line="9" column="21" />
@@ -222,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="21" filename="$USER_HOME$/www/php_ulove520/application/config.php" />
-      <jump line="87" column="12" filename="$USER_HOME$/www/php_ulove520/application/common/logic/OssLogic.php" />
       <jump line="32" column="1" filename="$USER_HOME$/www/php_ulove520/application/api/config.php" />
       <jump line="296" column="4" filename="$USER_HOME$/www/php_ulove520/application/common.php" />
       <jump line="19" column="30" filename="$USER_HOME$/www/php_ulove520/application/api/controller/Uploadify.php" />
@@ -322,6 +321,8 @@
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/Fly/flow_config/utils/convert_project_config.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/ysnows/utils/convert_project_config.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/Fly/flow_config/config/web.sh" />
+      <jump line="52" column="27" filename="$USER_HOME$/Documents/ysnows/utils/hello.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/ysnows/utils/hello.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,7 +331,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>/root/flow_config/config/oss/</text>
+        <text>\s+[0-9]+\s+.*</text>
       </register>
       <register name="-" type="4">
         <text>pstorm</text>
@@ -339,7 +340,7 @@
         <text encoding="base64">XDxzdHJsZW5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>/root/flow_config/config/oss/</text>
+        <text>\s+[0-9]+\s+.*</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG91dF9kaXIgPSAnL1VzZXJzL3lzbm93cy9Eb2N1bWVudHMveXNub3dzL3NldHRpbmdzL2pldEJyYWlucycKICAgIG91dF9kaXIgPSAie30ve30iLmZvcm1hdChvdXRfZGlyLCBwbGF0Zm9ybSkKCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMob3V0X2Rpcik6CiAgICAgICAgb3MubWtkaXIob3V0X2RpcikKICAgIGVsc2U6CiAgICAgICAgc2h1dGlsLnJtdHJlZShvdXRfZGlyKQogICAgICAgIG9zLm1rZGlyKG91dF9kaXIpCg==</text>
