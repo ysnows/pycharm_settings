@@ -45,6 +45,10 @@
   <action id="Console.TableResult.CompareCells" />
   <action id="ConvertJavaToKotlin" />
   <action id="CopyPaths" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl meta space" />
+  </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
@@ -113,6 +117,7 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="EmojiAndSymbols" />
   <action id="FileChooser.GotoHome">
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
@@ -234,13 +239,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="shift alt j" />
   </action>
-  <action id="StepInto">
-    <keyboard-shortcut first-keystroke="f7" />
-    <keyboard-shortcut first-keystroke="meta alt i" />
-  </action>
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="shift f8" />
     <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta alt t" />
