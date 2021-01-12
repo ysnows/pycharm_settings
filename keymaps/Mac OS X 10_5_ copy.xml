@@ -41,7 +41,9 @@
   <action id="CIDR.Lang.IntroduceTypedef" />
   <action id="CallHierarchy" />
   <action id="ChangesView.GroupBy.Directory" />
-  <action id="CheckinProject" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Console.TableResult.CompareCells" />
   <action id="ConvertJavaToKotlin" />
   <action id="CopyPaths" />
@@ -152,6 +154,7 @@
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
   <action id="GotoSymbol" />
+  <action id="GotoTest" />
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
@@ -231,6 +234,7 @@
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
   <action id="ServiceView.GroupByServiceGroups" />
+  <action id="ServiceView.ShowServices" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="meta f3" />
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
@@ -287,6 +291,9 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="WebServicesPlugin.CreateRESTClient">
     <keyboard-shortcut first-keystroke="meta 4" />

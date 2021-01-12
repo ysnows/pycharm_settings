@@ -5,9 +5,11 @@
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".IndexController.class.php.swp" type="PLAIN_TEXT" />
+      <mapping pattern="1016erp" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".revision" type="PLAIN_TEXT" />
       <mapping pattern="conf" type="PLAIN_TEXT" />
+      <mapping pattern="sdjyht" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="pid" type="PLAIN_TEXT" />
       <mapping ext="txt " type="PLAIN_TEXT" />
