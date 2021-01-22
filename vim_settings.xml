@@ -103,7 +103,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1611278494098">
+      <file name="/Dummy.txt" timestamp="1611280706154">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -127,11 +127,11 @@
         <mark key="^" line="74" column="113" />
         <mark key="." line="74" column="112" />
       </file>
-      <file name="$USER_HOME$/www/php_erp_xinong/application/admin/controller/Backup.php" timestamp="1605025253700">
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="34" column="21" />
-        <mark key="^" line="34" column="21" />
-        <mark key="." line="34" column="20" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1611283669414">
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="58" />
+        <mark key="^" line="66" column="58" />
+        <mark key="." line="66" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/2021-01-12/hello" timestamp="1610440210178">
         <mark key="'" line="14" column="0" />
@@ -159,18 +159,18 @@
         <mark key="^" line="48" column="41" />
         <mark key="." line="48" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/Fly/flow_config/utils/convert_project_config.py" timestamp="1605061596744">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611280789306">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="31" column="5" />
+        <mark key="^" line="31" column="5" />
+        <mark key="." line="31" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" timestamp="1611278771205">
+      <file name="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" timestamp="1611280528567">
         <mark key="'" line="25" column="105" />
-        <mark key="[" line="23" column="195" />
-        <mark key="]" line="23" column="195" />
-        <mark key="^" line="23" column="195" />
-        <mark key="." line="23" column="194" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="21" />
+        <mark key="^" line="21" column="21" />
+        <mark key="." line="21" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/Fly/flow_config/config/playbook/add_new_service_without_mysql.yml" timestamp="1605063679615">
         <mark key="[" line="10" column="27" />
@@ -188,12 +188,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Fly/flow_config/utils/resize_image.py" timestamp="1605058094027">
-        <mark key="[" line="55" column="9" />
-        <mark key="]" line="55" column="9" />
-        <mark key="^" line="55" column="9" />
-        <mark key="." line="55" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/resize_image.py" timestamp="1610448407420">
         <mark key="'" line="54" column="14" />
@@ -331,16 +325,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>6</text>
+        <text>match_info</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>match_info</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
       <register name="0" type="4">
-        <text>SELECT * FROM `gift_bag_saler` WHERE  deleted_at=0 LIMIT 1</text>
+        <text>SELECT\s+.*\s+(from|FROM)\s+((\w|\d)+)\s+(where|WHERE).*</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">U0VMRUNUIGEuc2lkLGEuYWRtaW5fbmFtZSxzLnNhbGVyX25hbWUscy5mcmVlemVfYmFsYW5jZSxzLmJhbGFuY2UgRlJPTSBzYWxlcl9hZG1pbiBhIGxlZnQgam9pbiBzYWxlciBzIG9uIHMuaWQ9YS5zaWQgIFdIRVJFIChgYWRtaW5faWRgID0gJzc2JykgQU5EIGEuZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUIGBmcmVlemVfYmFsYW5jZWAgRlJPTSBgc2FsZXJfc2hvcF9zZXR0aW5nYCBXSEVSRSAoYGlkYCA9IDEpIEFORCBkZWxldGVkX2F0PTAgTElNSVQgMQpTRUxFQ1QgYGJhbGFuY2VgIEZST00gYHNhbGVyYCBXSEVSRSAoYGlkYCA9IDM5KSBBTkQgZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUIGBiYW5rX2NhcmRgLGBiYW5rX25hbWVgIEZST00gYHNhbGVyX3Nob3Bfc2V0dGluZ2AgV0hFUkUgKGBpZGAgPSAxKSBBTkQgZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUICogRlJPTSBgZ29vZHNfY2xhc3NgIFdIRVJFIChgZ2NfcGFyZW50X2lkYCA9IDAgQU5EIGBnY19zaG93YCA9IDEpIEFORCBkZWxldGVkX2F0PTAgT1JERVIgQlkgZ2Nfc29ydCBkZXNjClNFTEVDVCAqIEZST00gYGdpZnRfYmFnX3NhbGVyYCBXSEVSRSAoYHNpZGAgPSAzOSkgQU5EIGRlbGV0ZWRfYXQ9MCBMSU1JVCAxClNFTEVDVCAqIEZST00gYGdvb2RzX2NsYXNzYCBXSEVSRSAoYGdjX3BhcmVudF9pZGAgPSAxIEFORCBgZ2Nfc2hvd2AgPSAxKSBBTkQgZGVsZXRlZF9hdD0wIE9SREVSIEJZIGdjX3NvcnQgZGVzYwpTRUxFQ1QgKiBGUk9NIGBnb29kc19jbGFzc2AgV0hFUkUgKGBnY19wYXJlbnRfaWRgID0gMSBBTkQgYGdjX3Nob3dgID0gMSkgQU5EIGRlbGV0ZWRfYXQ9MCBPUkRFUiBCWSBnY19zb3J0IGRlc2MKU0VMRUNUIGEuc2lkLGEuYWRtaW5fbmFtZSxzLnNhbGVyX25hbWUscy5mcmVlemVfYmFsYW5jZSxzLmJhbGFuY2UgRlJPTSBzYWxlcl9hZG1pbiBhIGxlZnQgam9pbiBzYWxlciBzIG9uIHMuaWQ9YS5zaWQgIFdIRVJFIChgYWRtaW5faWRgID0gJzc2JykgQU5EIGEuZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUIGBmcmVlemVfYmFsYW5jZWAgRlJPTSBgc2FsZXJfc2hvcF9zZXR0aW5nYCBXSEVSRSAoYGlkYCA9IDEpIEFORCBkZWxldGVkX2F0PTAgTElNSVQgMQpTRUxFQ1QgYGJhbGFuY2VgIEZST00gYHNhbGVyYCBXSEVSRSAoYGlkYCA9IDM5KSBBTkQgZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUIGBiYW5rX2NhcmRgLGBiYW5rX25hbWVgIEZST00gYHNhbGVyX3Nob3Bfc2V0dGluZ2AgV0hFUkUgKGBpZGAgPSAxKSBBTkQgZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUICogRlJPTSBgZ29vZHNfY2xhc3NgIFdIRVJFIChgZ2NfcGFyZW50X2lkYCA9IDAgQU5EIGBnY19zaG93YCA9IDEpIEFORCBkZWxldGVkX2F0PTAgT1JERVIgQlkgZ2Nfc29ydCBkZXNjCg==</text>
