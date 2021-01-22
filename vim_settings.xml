@@ -103,81 +103,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1611296229460">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1610440078795">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/oss_upload.py" timestamp="1610447992527">
-        <mark key="[" line="55" column="47" />
-        <mark key="]" line="55" column="47" />
-        <mark key="^" line="55" column="47" />
-        <mark key="." line="55" column="46" />
       </file>
       <file name="/a.dummy" timestamp="1610447847485">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/Fly/flow_config/config/web.sh" timestamp="1606790001153">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="74" column="73" />
-        <mark key="]" line="74" column="101" />
-        <mark key="^" line="74" column="113" />
-        <mark key="." line="74" column="112" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611298477297">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1611296267792">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="42" column="5" />
-        <mark key="." line="42" column="4" />
-        <mark key="^" line="42" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/tmp_log/sdjyht" timestamp="1611292658124" />
-      <file name="$USER_HOME$/Documents/ysnows/utils/2021-01-12/hello" timestamp="1610440210178">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="15" column="1" />
-        <mark key="^" line="15" column="1" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Fly/flow_config/config/playbook/add_new_service.yml" timestamp="1605063674127">
-        <mark key="[" line="39" column="15" />
-        <mark key="]" line="39" column="15" />
-        <mark key="^" line="39" column="15" />
-        <mark key="." line="39" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/arrage_general_log.py" timestamp="1611278487198">
-        <mark key="[" line="48" column="41" />
-        <mark key="]" line="48" column="41" />
-        <mark key="^" line="48" column="41" />
-        <mark key="." line="48" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611297104530">
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="169" />
-        <mark key="^" line="37" column="170" />
-      </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" timestamp="1611280528567">
-        <mark key="'" line="25" column="105" />
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="21" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="21" column="20" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Fly/flow_config/config/playbook/add_new_service_without_mysql.yml" timestamp="1605063679615">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="27" />
-        <mark key="^" line="10" column="27" />
-        <mark key="." line="10" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/2021-01-12/sdjyht" timestamp="1610449469434">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="19" />
+      <file name="$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons/py/path/__init__.py" timestamp="1611298245866">
+        <mark key="[" line="243" column="29" />
+        <mark key="]" line="243" column="29" />
+        <mark key="^" line="243" column="29" />
+        <mark key="." line="243" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/i.py" timestamp="1610432414201">
         <mark key="[" line="2" column="0" />
@@ -191,18 +133,76 @@
         <mark key="^" line="18" column="54" />
         <mark key="." line="18" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/ysnows/utils/sdjyht" timestamp="1610439141574">
+        <mark key="[" line="0" column="111" />
+        <mark key="]" line="0" column="111" />
+        <mark key="^" line="0" column="111" />
+        <mark key="." line="0" column="110" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1611296229460">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ysnows/utils/oss_upload.py" timestamp="1610447992527">
+        <mark key="[" line="55" column="47" />
+        <mark key="]" line="55" column="47" />
+        <mark key="^" line="55" column="47" />
+        <mark key="." line="55" column="46" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Fly/flow_config/config/web.sh" timestamp="1606790001153">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="74" column="73" />
+        <mark key="]" line="74" column="101" />
+        <mark key="^" line="74" column="113" />
+        <mark key="." line="74" column="112" />
+      </file>
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1611298482309">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="30" column="44" />
+        <mark key="]" line="45" column="1" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/ysnows/utils/tmp_log/sdjyht" timestamp="1611292658124" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/2021-01-12/hello" timestamp="1610440210178">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ysnows/utils/arrage_general_log.py" timestamp="1611278487198">
+        <mark key="[" line="48" column="41" />
+        <mark key="]" line="48" column="41" />
+        <mark key="^" line="48" column="41" />
+        <mark key="." line="48" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" timestamp="1611280528567">
+        <mark key="'" line="25" column="105" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="21" />
+        <mark key="^" line="21" column="21" />
+        <mark key="." line="21" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/ysnows/Fly/flow_config/.env/lib/python3.8/site-packages/git/remote.py" timestamp="1611298213851">
+        <mark key="[" line="639" column="23" />
+        <mark key="]" line="639" column="23" />
+        <mark key="^" line="639" column="23" />
+        <mark key="." line="639" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/ysnows/utils/2021-01-12/sdjyht" timestamp="1610449469434">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/hello.py" timestamp="1610447832333">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="38" column="9" />
         <mark key="]" line="38" column="9" />
         <mark key="^" line="38" column="9" />
         <mark key="." line="38" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/sdjyht" timestamp="1610439141574">
-        <mark key="[" line="0" column="111" />
-        <mark key="]" line="0" column="111" />
-        <mark key="^" line="0" column="111" />
-        <mark key="." line="0" column="110" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/2021-01-22/sdjyht" timestamp="1611287935214">
         <mark key="[" line="2" column="0" />
@@ -218,8 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="21" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
-      <jump line="52" column="30" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
       <jump line="55" column="21" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
       <jump line="58" column="27" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
       <jump line="38" column="18" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
@@ -318,6 +316,8 @@
       <jump line="33" column="9" filename="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" />
       <jump line="60" column="20" filename="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" />
+      <jump line="43" column="21" filename="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,11 +325,11 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="*" type="4">
-        <text>mysqlslap</text>
+      <register name="*" type="2">
+        <text encoding="base64">b3MucmVuYW1lKGxvZ1BhdGgsICcvJy5mb3JtYXQoY3VycmVudF9wYXRoKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>query_info</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
@@ -338,22 +338,22 @@
         <text>mysqlslap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgbm90IG9zLnBhdGguZXhpc3RzKGRhdGVfc3RyKToKICAgIG9zLm1rZGlyKGRhdGVfc3RyKQo=</text>
+        <text encoding="base64">b3MucmVuYW1lKGxvZ1BhdGgsICcvJy5mb3JtYXQoY3VycmVudF9wYXRoKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhkYXRlX3N0cik6CiAgICAgICAgICAgICAgICAgICAgb3MubWtkaXIoZGF0ZV9zdHIpCg==</text>
+        <text encoding="base64">Y3VycmVudF9kYXRlPXRpbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhkYXRlX3N0cik6CiAgICAgICAgICAgICAgICAgICAgb3MubWtkaXIoZGF0ZV9zdHIpCg==</text>
+        <text encoding="base64">aWYgbm90IG9zLnBhdGguZXhpc3RzKGRhdGVfc3RyKToKICAgIG9zLm1rZGlyKGRhdGVfc3RyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3Bvb2xbZGJfbmFtZV0gPSBvcGVuKCJ7fS97fSIuZm9ybWF0KGRhdGVfc3RyLCBkYl9uYW1lKSwgJ3crJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhkYXRlX3N0cik6CiAgICAgICAgICAgICAgICAgICAgb3MubWtkaXIoZGF0ZV9zdHIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3Bvb2xbZGJfbmFtZV0gPSBvcGVuKCJ7fS97fSIuZm9ybWF0KGRhdGVfc3RyLCBkYl9uYW1lKSwgJ3crJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhkYXRlX3N0cik6CiAgICAgICAgICAgICAgICAgICAgb3MubWtkaXIoZGF0ZV9zdHIpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
@@ -365,13 +365,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3Bvb2xbZGJfbmFtZV0gPSBvcGVuKCJ7fS97fSIuZm9ybWF0KGRhdGVfc3RyLCBkYl9uYW1lKSwgJ3crJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3Bvb2xbZGJfbmFtZV0gPSBvcGVuKCJ7fS97fSIuZm9ybWF0KGRhdGVfc3RyLCBkYl9uYW1lKSwgJ3crJykK</text>
       </register>
       <register name="9" type="2">
-        <text>Merge branch 'master' of https://git.quansuwangluo.com/ysnows/server-sites
-
-# Conflicts:
-#	小网站服务器/1218李沧妇幼公众号 配置信息.md</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3Bvb2xbZGJfbmFtZV0gPSBvcGVuKCJ7fS97fSIuZm9ybWF0KGRhdGVfc3RyLCBkYl9uYW1lKSwgJ3crJykK</text>
       </register>
       <register name=":" type="4">
         <text>316</text>
