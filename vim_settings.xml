@@ -103,7 +103,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1611288048256">
+      <file name="/Dummy.txt" timestamp="1611296229460">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -127,12 +127,14 @@
         <mark key="^" line="74" column="113" />
         <mark key="." line="74" column="112" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1611287984311">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="20" />
-        <mark key="^" line="29" column="16" />
-        <mark key="." line="29" column="15" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1611296267792">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="42" column="5" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/ysnows/utils/tmp_log/sdjyht" timestamp="1611292658124" />
       <file name="$USER_HOME$/Documents/ysnows/utils/2021-01-12/hello" timestamp="1610440210178">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="15" column="1" />
@@ -146,24 +148,17 @@
         <mark key="^" line="39" column="15" />
         <mark key="." line="39" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/convert_project_config.py" timestamp="1605063321132">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/arrage_general_log.py" timestamp="1611278487198">
         <mark key="[" line="48" column="41" />
         <mark key="]" line="48" column="41" />
         <mark key="^" line="48" column="41" />
         <mark key="." line="48" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611287991979">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="16" column="1" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="1" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611297104530">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="169" />
+        <mark key="^" line="37" column="170" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" timestamp="1611280528567">
         <mark key="'" line="25" column="105" />
@@ -223,9 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="31" filename="$USER_HOME$/www/php_ulove520/application/admin/template/ad_position/edit.htm" />
-      <jump line="28" column="17" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
-      <jump line="29" column="27" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
       <jump line="32" column="21" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
       <jump line="52" column="30" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
       <jump line="55" column="21" filename="$USER_HOME$/www/php_xinong/App/Admin/Controller/SalerGoodsController.class.php" />
@@ -323,6 +315,9 @@
       <jump line="22" column="11" filename="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" />
       <jump line="24" column="105" filename="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" />
       <jump line="11" column="38" filename="$USER_HOME$/Documents/ysnows/utils/2021-01-12/sdjyht" />
+      <jump line="33" column="9" filename="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" />
+      <jump line="60" column="20" filename="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,54 +325,53 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ZGF0ZV9zdHIgPSAndG1wX2xvZycK</text>
+      <register name="*" type="4">
+        <text>mysqlslap</text>
       </register>
       <register name="-" type="4">
-        <text>time.strftime(&quot;%Y-%m-%d&quot;, time.localtime())</text>
+        <text>query_info</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGF0ZV9zdHIgPSAndG1wX2xvZycK</text>
+      <register name="0" type="4">
+        <text>mysqlslap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aWYgbm90IG9zLnBhdGguZXhpc3RzKGRhdGVfc3RyKToKICAgIG9zLm1rZGlyKGRhdGVfc3RyKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>Merge branch 'master' of https://git.quansuwangluo.com/ysnows/server-sites
-
-# Conflicts:
-#	小网站服务器/1218李沧妇幼公众号 配置信息.md</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhkYXRlX3N0cik6CiAgICAgICAgICAgICAgICAgICAgb3MubWtkaXIoZGF0ZV9zdHIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUIGEuc2lkLGEuYWRtaW5fbmFtZSxzLnNhbGVyX25hbWUscy5mcmVlemVfYmFsYW5jZSxzLmJhbGFuY2UgRlJPTSBzYWxlcl9hZG1pbiBhIGxlZnQgam9pbiBzYWxlciBzIG9uIHMuaWQ9YS5zaWQgIFdIRVJFIChgYWRtaW5faWRgID0gJzc2JykgQU5EIGEuZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUIGBmcmVlemVfYmFsYW5jZWAgRlJPTSBgc2FsZXJfc2hvcF9zZXR0aW5nYCBXSEVSRSAoYGlkYCA9IDEpIEFORCBkZWxldGVkX2F0PTAgTElNSVQgMQpTRUxFQ1QgYGJhbGFuY2VgIEZST00gYHNhbGVyYCBXSEVSRSAoYGlkYCA9IDM5KSBBTkQgZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUIGBiYW5rX2NhcmRgLGBiYW5rX25hbWVgIEZST00gYHNhbGVyX3Nob3Bfc2V0dGluZ2AgV0hFUkUgKGBpZGAgPSAxKSBBTkQgZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUICogRlJPTSBgZ29vZHNfY2xhc3NgIFdIRVJFIChgZ2NfcGFyZW50X2lkYCA9IDAgQU5EIGBnY19zaG93YCA9IDEpIEFORCBkZWxldGVkX2F0PTAgT1JERVIgQlkgZ2Nfc29ydCBkZXNjClNFTEVDVCAqIEZST00gYGdpZnRfYmFnX3NhbGVyYCBXSEVSRSAoYHNpZGAgPSAzOSkgQU5EIGRlbGV0ZWRfYXQ9MCBMSU1JVCAxClNFTEVDVCAqIEZST00gYGdvb2RzX2NsYXNzYCBXSEVSRSAoYGdjX3BhcmVudF9pZGAgPSAxIEFORCBgZ2Nfc2hvd2AgPSAxKSBBTkQgZGVsZXRlZF9hdD0wIE9SREVSIEJZIGdjX3NvcnQgZGVzYwpTRUxFQ1QgKiBGUk9NIGBnb29kc19jbGFzc2AgV0hFUkUgKGBnY19wYXJlbnRfaWRgID0gMSBBTkQgYGdjX3Nob3dgID0gMSkgQU5EIGRlbGV0ZWRfYXQ9MCBPUkRFUiBCWSBnY19zb3J0IGRlc2MKU0VMRUNUIGEuc2lkLGEuYWRtaW5fbmFtZSxzLnNhbGVyX25hbWUscy5mcmVlemVfYmFsYW5jZSxzLmJhbGFuY2UgRlJPTSBzYWxlcl9hZG1pbiBhIGxlZnQgam9pbiBzYWxlciBzIG9uIHMuaWQ9YS5zaWQgIFdIRVJFIChgYWRtaW5faWRgID0gJzc2JykgQU5EIGEuZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUIGBmcmVlemVfYmFsYW5jZWAgRlJPTSBgc2FsZXJfc2hvcF9zZXR0aW5nYCBXSEVSRSAoYGlkYCA9IDEpIEFORCBkZWxldGVkX2F0PTAgTElNSVQgMQpTRUxFQ1QgYGJhbGFuY2VgIEZST00gYHNhbGVyYCBXSEVSRSAoYGlkYCA9IDM5KSBBTkQgZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUIGBiYW5rX2NhcmRgLGBiYW5rX25hbWVgIEZST00gYHNhbGVyX3Nob3Bfc2V0dGluZ2AgV0hFUkUgKGBpZGAgPSAxKSBBTkQgZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUICogRlJPTSBgZ29vZHNfY2xhc3NgIFdIRVJFIChgZ2NfcGFyZW50X2lkYCA9IDAgQU5EIGBnY19zaG93YCA9IDEpIEFORCBkZWxldGVkX2F0PTAgT1JERVIgQlkgZ2Nfc29ydCBkZXNjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhkYXRlX3N0cik6CiAgICAgICAgICAgICAgICAgICAgb3MubWtkaXIoZGF0ZV9zdHIpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>r&quot;mysqlslap -h localhost  --concurrency=100  --number-of-queries=100 --iterations=1 --create-schema='{}' --query='{};' --number-of-queries=10 -u root -p'Ysnows@#1314'&quot;.format(
-                db_name, line)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3Bvb2xbZGJfbmFtZV0gPSBvcGVuKCJ7fS97fSIuZm9ybWF0KGRhdGVfc3RyLCBkYl9uYW1lKSwgJ3crJykK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3Bvb2xbZGJfbmFtZV0gPSBvcGVuKCJ7fS97fSIuZm9ybWF0KGRhdGVfc3RyLCBkYl9uYW1lKSwgJ3crJykK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGFwcGVuZF9kYihtYXRjaGVkKToKICAgIGJlZm9yZSA9IG1hdGNoZWQuZ3JvdXAoJ2JlZm9yZScpCiAgICB2YWx1ZSA9IG1hdGNoZWQuZ3JvdXAoJ25hbWUnKQogICAgcmV0dXJuICd7fXt9Lnt9Jy5mb3JtYXQoYmVmb3JlLCBjdXJyZW50X2RiLCB2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3Bvb2xbZGJfbmFtZV0gPSBvcGVuKCJ7fS97fSIuZm9ybWF0KGRhdGVfc3RyLCBkYl9uYW1lKSwgJ3crJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nRm8gPSBvcGVuKCJ7fS97fSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3Bvb2xbZGJfbmFtZV0gPSBvcGVuKCJ7fS97fSIuZm9ybWF0KGRhdGVfc3RyLCBkYl9uYW1lKSwgJ3crJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nRm8gPSBvcGVuKGxvZ1BhdGgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="9" type="2">
+        <text>Merge branch 'master' of https://git.quansuwangluo.com/ysnows/server-sites
+
+# Conflicts:
+#	小网站服务器/1218李沧妇幼公众号 配置信息.md</text>
       </register>
       <register name=":" type="4">
         <text>316</text>
