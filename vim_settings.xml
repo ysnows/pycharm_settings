@@ -127,11 +127,11 @@
         <mark key="^" line="74" column="113" />
         <mark key="." line="74" column="112" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1611285870468">
-        <mark key="[" line="63" column="17" />
-        <mark key="]" line="63" column="17" />
-        <mark key="^" line="63" column="17" />
-        <mark key="." line="63" column="16" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1611287984311">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="20" />
+        <mark key="^" line="29" column="16" />
+        <mark key="." line="29" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/2021-01-12/hello" timestamp="1610440210178">
         <mark key="'" line="14" column="0" />
@@ -159,11 +159,11 @@
         <mark key="^" line="48" column="41" />
         <mark key="." line="48" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611285937805">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="13" />
-        <mark key="^" line="22" column="13" />
-        <mark key="." line="22" column="12" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611287991979">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" timestamp="1611280528567">
         <mark key="'" line="25" column="105" />
@@ -209,7 +209,7 @@
         <mark key="^" line="0" column="111" />
         <mark key="." line="0" column="110" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/2021-01-22/sdjyht" timestamp="1611285704600">
+      <file name="$USER_HOME$/Documents/ysnows/utils/2021-01-22/sdjyht" timestamp="1611287935214">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
@@ -331,56 +331,53 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
-        <text>Merge branch 'master' of https://git.quansuwangluo.com/ysnows/server-sites
-
-# Conflicts:
-#	小网站服务器/1218李沧妇幼公众号 配置信息.md</text>
+        <text encoding="base64">ZGF0ZV9zdHIgPSAndG1wX2xvZycK</text>
       </register>
       <register name="-" type="4">
-        <text>match_info</text>
+        <text>time.strftime(&quot;%Y-%m-%d&quot;, time.localtime())</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
-      <register name="0" type="4">
-        <text>SELECT\s+.*\s+(from|FROM)\s+((\w|\d)+)\s+(where|WHERE).*</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGF0ZV9zdHIgPSAndG1wX2xvZycK</text>
       </register>
       <register name="1" type="2">
-        <text>Merge branch 'master' of https://git.quansuwangluo.com/ysnows/server-sites
-
-# Conflicts:
-#	小网站服务器/1218李沧妇幼公众号 配置信息.md</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text>Merge branch 'master' of https://git.quansuwangluo.com/ysnows/server-sites
+
+# Conflicts:
+#	小网站服务器/1218李沧妇幼公众号 配置信息.md</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">U0VMRUNUIGEuc2lkLGEuYWRtaW5fbmFtZSxzLnNhbGVyX25hbWUscy5mcmVlemVfYmFsYW5jZSxzLmJhbGFuY2UgRlJPTSBzYWxlcl9hZG1pbiBhIGxlZnQgam9pbiBzYWxlciBzIG9uIHMuaWQ9YS5zaWQgIFdIRVJFIChgYWRtaW5faWRgID0gJzc2JykgQU5EIGEuZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUIGBmcmVlemVfYmFsYW5jZWAgRlJPTSBgc2FsZXJfc2hvcF9zZXR0aW5nYCBXSEVSRSAoYGlkYCA9IDEpIEFORCBkZWxldGVkX2F0PTAgTElNSVQgMQpTRUxFQ1QgYGJhbGFuY2VgIEZST00gYHNhbGVyYCBXSEVSRSAoYGlkYCA9IDM5KSBBTkQgZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUIGBiYW5rX2NhcmRgLGBiYW5rX25hbWVgIEZST00gYHNhbGVyX3Nob3Bfc2V0dGluZ2AgV0hFUkUgKGBpZGAgPSAxKSBBTkQgZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUICogRlJPTSBgZ29vZHNfY2xhc3NgIFdIRVJFIChgZ2NfcGFyZW50X2lkYCA9IDAgQU5EIGBnY19zaG93YCA9IDEpIEFORCBkZWxldGVkX2F0PTAgT1JERVIgQlkgZ2Nfc29ydCBkZXNjClNFTEVDVCAqIEZST00gYGdpZnRfYmFnX3NhbGVyYCBXSEVSRSAoYHNpZGAgPSAzOSkgQU5EIGRlbGV0ZWRfYXQ9MCBMSU1JVCAxClNFTEVDVCAqIEZST00gYGdvb2RzX2NsYXNzYCBXSEVSRSAoYGdjX3BhcmVudF9pZGAgPSAxIEFORCBgZ2Nfc2hvd2AgPSAxKSBBTkQgZGVsZXRlZF9hdD0wIE9SREVSIEJZIGdjX3NvcnQgZGVzYwpTRUxFQ1QgKiBGUk9NIGBnb29kc19jbGFzc2AgV0hFUkUgKGBnY19wYXJlbnRfaWRgID0gMSBBTkQgYGdjX3Nob3dgID0gMSkgQU5EIGRlbGV0ZWRfYXQ9MCBPUkRFUiBCWSBnY19zb3J0IGRlc2MKU0VMRUNUIGEuc2lkLGEuYWRtaW5fbmFtZSxzLnNhbGVyX25hbWUscy5mcmVlemVfYmFsYW5jZSxzLmJhbGFuY2UgRlJPTSBzYWxlcl9hZG1pbiBhIGxlZnQgam9pbiBzYWxlciBzIG9uIHMuaWQ9YS5zaWQgIFdIRVJFIChgYWRtaW5faWRgID0gJzc2JykgQU5EIGEuZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUIGBmcmVlemVfYmFsYW5jZWAgRlJPTSBgc2FsZXJfc2hvcF9zZXR0aW5nYCBXSEVSRSAoYGlkYCA9IDEpIEFORCBkZWxldGVkX2F0PTAgTElNSVQgMQpTRUxFQ1QgYGJhbGFuY2VgIEZST00gYHNhbGVyYCBXSEVSRSAoYGlkYCA9IDM5KSBBTkQgZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUIGBiYW5rX2NhcmRgLGBiYW5rX25hbWVgIEZST00gYHNhbGVyX3Nob3Bfc2V0dGluZ2AgV0hFUkUgKGBpZGAgPSAxKSBBTkQgZGVsZXRlZF9hdD0wIExJTUlUIDEKU0VMRUNUICogRlJPTSBgZ29vZHNfY2xhc3NgIFdIRVJFIChgZ2NfcGFyZW50X2lkYCA9IDAgQU5EIGBnY19zaG93YCA9IDEpIEFORCBkZWxldGVkX2F0PTAgT1JERVIgQlkgZ2Nfc29ydCBkZXNjCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>r&quot;mysqlslap -h localhost  --concurrency=100  --number-of-queries=100 --iterations=1 --create-schema='{}' --query='{};' --number-of-queries=10 -u root -p'Ysnows@#1314'&quot;.format(
                 db_name, line)</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVmIGFwcGVuZF9kYihtYXRjaGVkKToKICAgIGJlZm9yZSA9IG1hdGNoZWQuZ3JvdXAoJ2JlZm9yZScpCiAgICB2YWx1ZSA9IG1hdGNoZWQuZ3JvdXAoJ25hbWUnKQogICAgcmV0dXJuICd7fXt9Lnt9Jy5mb3JtYXQoYmVmb3JlLCBjdXJyZW50X2RiLCB2YWx1ZSkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nRm8gPSBvcGVuKCJ7fS97fSIpCg==</text>
+        <text encoding="base64">ZGVmIGFwcGVuZF9kYihtYXRjaGVkKToKICAgIGJlZm9yZSA9IG1hdGNoZWQuZ3JvdXAoJ2JlZm9yZScpCiAgICB2YWx1ZSA9IG1hdGNoZWQuZ3JvdXAoJ25hbWUnKQogICAgcmV0dXJuICd7fXt9Lnt9Jy5mb3JtYXQoYmVmb3JlLCBjdXJyZW50X2RiLCB2YWx1ZSkK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">bG9nRm8gPSBvcGVuKCJ7fS97fSIpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">bG9nRm8gPSBvcGVuKGxvZ1BhdGgpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>316</text>
