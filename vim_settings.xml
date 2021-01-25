@@ -108,7 +108,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1611554129616">
+      <file name="/Python Console" timestamp="1611555503843">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" timestamp="1611303987361">
@@ -126,12 +126,12 @@
       <file name="/a.dummy" timestamp="1611309024084">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1611554122427">
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1611556180569">
         <mark key="'" line="78" column="23" />
-        <mark key="[" line="45" column="77" />
-        <mark key="]" line="45" column="84" />
-        <mark key="^" line="45" column="84" />
-        <mark key="." line="45" column="83" />
+        <mark key="[" line="75" column="29" />
+        <mark key="]" line="75" column="29" />
+        <mark key="^" line="75" column="29" />
+        <mark key="." line="75" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/2021-01-12/hello" timestamp="1610440210178">
         <mark key="'" line="14" column="0" />
@@ -140,12 +140,12 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611309886027">
-        <mark key="'" line="74" column="13" />
-        <mark key="[" line="62" column="61" />
-        <mark key="]" line="62" column="61" />
-        <mark key="." line="62" column="60" />
-        <mark key="^" line="62" column="61" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611556591517">
+        <mark key="'" line="75" column="13" />
+        <mark key="[" line="59" column="9" />
+        <mark key="]" line="59" column="9" />
+        <mark key="." line="59" column="8" />
+        <mark key="^" line="59" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/arrage_general_log.py" timestamp="1611278487198">
         <mark key="[" line="48" column="41" />
@@ -326,16 +326,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>|</text>
+        <text>200</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
       <register name="0" type="4">
-        <text>(.+)@(.+)</text>
+        <text>query_type == 'Query' or query_type == 'Execute'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZU1hdGNoLmdyb3VwcygpKQo=</text>
