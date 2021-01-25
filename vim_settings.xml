@@ -108,7 +108,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1611308334275">
+      <file name="/Python Console" timestamp="1611554129616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" timestamp="1611303987361">
@@ -126,12 +126,12 @@
       <file name="/a.dummy" timestamp="1611309024084">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1611309932458">
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1611554122427">
         <mark key="'" line="78" column="23" />
-        <mark key="[" line="58" column="34" />
-        <mark key="]" line="58" column="34" />
-        <mark key="^" line="58" column="34" />
-        <mark key="." line="58" column="33" />
+        <mark key="[" line="45" column="77" />
+        <mark key="]" line="45" column="84" />
+        <mark key="^" line="45" column="84" />
+        <mark key="." line="45" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/2021-01-12/hello" timestamp="1610440210178">
         <mark key="'" line="14" column="0" />
@@ -325,17 +325,17 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZU1hdGNoLmdyb3VwcygpKQo=</text>
+      <register name="*" type="4">
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>gm</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
       <register name="0" type="4">
-        <text>lineMatch.groups()</text>
+        <text>(.+)@(.+)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZU1hdGNoLmdyb3VwcygpKQo=</text>
