@@ -139,12 +139,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611623317025">
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611626664235">
         <mark key="'" line="54" column="29" />
-        <mark key="[" line="116" column="19" />
-        <mark key="]" line="116" column="19" />
-        <mark key="^" line="116" column="19" />
-        <mark key="." line="116" column="18" />
+        <mark key="[" line="113" column="129" />
+        <mark key="]" line="113" column="130" />
+        <mark key="^" line="113" column="130" />
+        <mark key="." line="113" column="129" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/arrage_general_log.py" timestamp="1611278487198">
         <mark key="[" line="48" column="41" />
@@ -327,52 +327,52 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>/usr/bin/python3 /usr/local/scripts/mysql/bench_general_log.py /home/mysqllog/mysql_general.log /home/mysqllog/mysql_slow.log 100</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>new_line</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
       <register name="0" type="4">
-        <text>/usr/bin/python3 /usr/local/scripts/mysql/bench_general_log.py /home/mysqllog/mysql_general.log /home/mysqllog/mysql_slow.log 100</text>
+        <text>set global general_log_file='{}/{}_slow_query.log';</text>
       </register>
-      <register name="1" type="2">
-        <text>Merge branch 'master' of https://git.quansuwangluo.com/ysnows/server-sites
-
-# Conflicts:
-#	小网站服务器/1218李沧妇幼公众号 配置信息.md</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Merge branch 'master' of https://git.quansuwangluo.com/ysnows/server-sites
+
+# Conflicts:
+#	小网站服务器/1218李沧妇幼公众号 配置信息.md</text>
       </register>
       <register name="3" type="2">
-        <text>/usr/</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMSkK</text>
+        <text>/usr/</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvdW50LCB0aW1lX3NwZW50LCBsb2NrLCByb3csIHVzZXIsIGhvc3QgPSBbXQo=</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMSkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBjb25uZWN0aW9uLmN1cnNvcigpIGFzIGN1cnNvcjoKICAgICAgICAgICAgICAgICMgQ3JlYXRlIGEgbmV3IHJlY29yZAogICAgICAgICAgICAgICAgc3FsID0gIklOU0VSVCBJTlRPIGBxc19teXNxbF9zbG93X2xvZ2AgKGBjb3VudGAsIGB0aW1lX3NwZW50YCwgYGxvY2tgLCBgcm93YCwgYHVzZXJgLCBgaG9zdGAsYG5vZGVfaXBgLGBjcmVhdGVfdGltZWAsYHF1ZXJ5X2luZm9gKSBWQUxVRVMgKCVzLCAlcywgJXMsICVzLCAlcywgJXMsJXMsJXMsJXMpIgogICAgICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoc3FsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGNvdW50LCB0aW1lX3NwZW50LCBsb2NrLCByb3csIHVzZXIsIGhvc3QsICc0Ny4xMDUuNzkuNjQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludCh0aW1lLnRpbWUoKSksICcnKSkKICAgICAgICAgICAgIyBjb25uZWN0aW9uIGlzIG5vdCBhdXRvY29tbWl0IGJ5IGRlZmF1bHQuIFNvIHlvdSBtdXN0IGNvbW1pdCB0byBzYXZlCiAgICAgICAgICAgICMgeW91ciBjaGFuZ2VzLgogICAgICAgICAgICBjb25uZWN0aW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgIGNvdW50LCB0aW1lX3NwZW50LCBsb2NrLCByb3csIHVzZXIsIGhvc3QgPSBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCwgdGltZV9zcGVudCwgbG9jaywgcm93LCB1c2VyLCBob3N0ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBjb25uZWN0aW9uLmN1cnNvcigpIGFzIGN1cnNvcjoKICAgICAgICAgICAgICAgICMgQ3JlYXRlIGEgbmV3IHJlY29yZAogICAgICAgICAgICAgICAgc3FsID0gIklOU0VSVCBJTlRPIGBxc19teXNxbF9zbG93X2xvZ2AgKGBjb3VudGAsIGB0aW1lX3NwZW50YCwgYGxvY2tgLCBgcm93YCwgYHVzZXJgLCBgaG9zdGAsYG5vZGVfaXBgLGBjcmVhdGVfdGltZWAsYHF1ZXJ5X2luZm9gKSBWQUxVRVMgKCVzLCAlcywgJXMsICVzLCAlcywgJXMsJXMsJXMsJXMpIgogICAgICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoc3FsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGNvdW50LCB0aW1lX3NwZW50LCBsb2NrLCByb3csIHVzZXIsIGhvc3QsICc0Ny4xMDUuNzkuNjQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludCh0aW1lLnRpbWUoKSksICcnKSkKICAgICAgICAgICAgIyBjb25uZWN0aW9uIGlzIG5vdCBhdXRvY29tbWl0IGJ5IGRlZmF1bHQuIFNvIHlvdSBtdXN0IGNvbW1pdCB0byBzYXZlCiAgICAgICAgICAgICMgeW91ciBjaGFuZ2VzLgogICAgICAgICAgICBjb25uZWN0aW9uLmNvbW1pdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsaW5lKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCwgdGltZV9zcGVudCwgbG9jaywgcm93LCB1c2VyLCBob3N0ID0gW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsaW5lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>316</text>
