@@ -133,18 +133,18 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/auto_bench.sh" timestamp="1611633516597">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/auto_bench.sh" timestamp="1611652399936">
+        <mark key="[" line="2" column="125" />
+        <mark key="]" line="2" column="128" />
+        <mark key="." line="2" column="127" />
+        <mark key="^" line="2" column="128" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611650186891">
-        <mark key="'" line="182" column="67" />
-        <mark key="[" line="188" column="39" />
-        <mark key="]" line="188" column="40" />
-        <mark key="^" line="188" column="40" />
-        <mark key="." line="188" column="39" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611652372024">
+        <mark key="'" line="130" column="4" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/arrage_general_log.py" timestamp="1611278487198">
         <mark key="[" line="48" column="41" />
@@ -315,10 +315,10 @@
       <jump line="73" column="0" filename="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" />
       <jump line="125" column="27" filename="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" />
       <jump line="126" column="47" filename="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" />
-      <jump line="130" column="24" filename="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" />
       <jump line="64" column="11" filename="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" />
       <jump line="184" column="67" filename="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" />
       <jump line="34" column="16" filename="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" />
+      <jump line="130" column="4" filename="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,10 +327,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>times</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>times</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
