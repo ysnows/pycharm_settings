@@ -133,18 +133,18 @@
         <mark key="." line="50" column="35" />
         <mark key="^" line="50" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/auto_bench.sh" timestamp="1611632618068">
-        <mark key="[" line="2" column="129" />
-        <mark key="]" line="2" column="129" />
-        <mark key="." line="2" column="128" />
-        <mark key="^" line="2" column="129" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/auto_bench.sh" timestamp="1611633516597">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611631379121">
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1611633565684">
         <mark key="'" line="136" column="4" />
-        <mark key="[" line="131" column="27" />
-        <mark key="]" line="131" column="27" />
-        <mark key="^" line="131" column="27" />
-        <mark key="." line="131" column="26" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/arrage_general_log.py" timestamp="1611278487198">
         <mark key="[" line="48" column="41" />
@@ -327,10 +327,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>general_dir}/{db_name}_slow_query.log</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>general_dir}/{db_name}_slow_query.log</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
