@@ -165,12 +165,12 @@
         <mark key="^" line="21" column="21" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/fake_download.py" timestamp="1612167026888">
-        <mark key="'" line="43" column="20" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/fake_download.py" timestamp="1612168612010">
+        <mark key="'" line="14" column="9" />
         <mark key="[" line="63" column="19" />
-        <mark key="]" line="63" column="21" />
-        <mark key="^" line="63" column="21" />
-        <mark key="." line="63" column="20" />
+        <mark key="]" line="63" column="20" />
+        <mark key="^" line="63" column="20" />
+        <mark key="." line="63" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/Fly/flow_config/.env/lib/python3.8/site-packages/git/remote.py" timestamp="1611298213851">
         <mark key="[" line="639" column="23" />
@@ -219,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="28" filename="$USER_HOME$/www/php_supersearch/extend/aop/AopClient.php" />
       <jump line="43" column="22" filename="$USER_HOME$/www/php_supersearch/application/api/controller/Alipay.php" />
       <jump line="55" column="40" filename="$USER_HOME$/www/php_supersearch/application/api/controller/Alipay.php" />
       <jump line="0" column="0" filename="&lt;e22e3083-3818-41ad-b30b-0f04b5c9e4b4&gt;/runtime/log/202009/07.log" />
@@ -319,6 +318,7 @@
       <jump line="130" column="4" filename="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" />
       <jump line="43" column="20" filename="$USER_HOME$/Documents/ysnows/utils/fake_download.py" />
+      <jump line="14" column="9" filename="$USER_HOME$/Documents/ysnows/utils/fake_download.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,10 +327,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>100</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
