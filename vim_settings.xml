@@ -103,12 +103,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/ysnows/utils/minsheng/ConvertBankCode.py" timestamp="1612244488235">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="17" />
+        <mark key="^" line="20" column="17" />
+        <mark key="." line="20" column="16" />
+      </file>
       <file name="/Dummy.txt" timestamp="1612236881715">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1612236808943">
+      <file name="/Python Console" timestamp="1612244164079">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py" timestamp="1611303987361">
@@ -152,18 +158,18 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/ysnows/utils/minsheng/bank" timestamp="1612244447561">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/fake_download.py" timestamp="1612168612010">
         <mark key="'" line="14" column="9" />
         <mark key="[" line="63" column="19" />
         <mark key="]" line="63" column="20" />
         <mark key="^" line="63" column="20" />
         <mark key="." line="63" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/ysnows/Fly/flow_config/.env/lib/python3.8/site-packages/git/remote.py" timestamp="1611298213851">
-        <mark key="[" line="639" column="23" />
-        <mark key="]" line="639" column="23" />
-        <mark key="^" line="639" column="23" />
-        <mark key="." line="639" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/mysql/config.py" timestamp="1611301011410">
         <mark key="[" line="2" column="28" />
@@ -198,12 +204,6 @@
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/2021-01-22/sdjyht" timestamp="1611287935214">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="1" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/convert_to_hugo_title.py" timestamp="1611562457624">
         <mark key="[" line="7" column="0" />
@@ -328,10 +328,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>province</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>province</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
