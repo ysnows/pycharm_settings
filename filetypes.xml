@@ -9,6 +9,7 @@
       <mapping pattern="city" type="PLAIN_TEXT" />
       <mapping pattern=".IndexController.class.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="1016erp" type="PLAIN_TEXT" />
+      <mapping pattern="bank" type="PLAIN_TEXT" />
       <mapping pattern=".revision" type="PLAIN_TEXT" />
       <mapping pattern="conf" type="PLAIN_TEXT" />
       <mapping pattern="sdjyht" type="PLAIN_TEXT" />
