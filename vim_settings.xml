@@ -103,13 +103,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/ysnows/utils/minsheng/ConvertBankCode.py" timestamp="1612244488235">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="17" />
-        <mark key="^" line="20" column="17" />
-        <mark key="." line="20" column="16" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/minsheng/ConvertBankCode.py" timestamp="1612244877478">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="33" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1612236881715">
+      <file name="/Dummy.txt" timestamp="1612244526439">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -158,11 +158,12 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/minsheng/bank" timestamp="1612244447561">
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="0" column="35" />
-        <mark key="^" line="0" column="35" />
-        <mark key="." line="0" column="34" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/minsheng/bank" timestamp="1612244524148">
+        <mark key="'" line="9" column="16" />
+        <mark key="[" line="48" column="1" />
+        <mark key="]" line="48" column="1" />
+        <mark key="^" line="48" column="1" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/fake_download.py" timestamp="1612168612010">
         <mark key="'" line="14" column="9" />
@@ -220,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/www/php_supersearch/application/api/controller/Alipay.php" />
       <jump line="34" column="10" filename="$USER_HOME$/www/php_supersearch/application/api/controller/Task.php" />
       <jump line="8" column="37" filename="&lt;e22e3083-3818-41ad-b30b-0f04b5c9e4b4&gt;/runtime/log/20200907.log" />
       <jump line="199" column="13" filename="$USER_HOME$/www/php_supersearch/vendor/alipaysdk/easysdk/php/src/Kernel/EasySDKKernel.php" />
@@ -320,6 +320,7 @@
       <jump line="117" column="25" filename="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" />
       <jump line="21" column="21" filename="$USER_HOME$/Documents/ysnows/utils/i.py" />
       <jump line="7" column="13" filename="$USER_HOME$/Documents/ysnows/utils/minsheng/city" />
+      <jump line="9" column="16" filename="$USER_HOME$/Documents/ysnows/utils/minsheng/bank" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
