@@ -146,12 +146,6 @@
         <mark key="^" line="28" column="11" />
         <mark key="." line="28" column="10" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons/py/path/__init__.py" timestamp="1611298245866">
-        <mark key="[" line="243" column="29" />
-        <mark key="]" line="243" column="29" />
-        <mark key="^" line="243" column="29" />
-        <mark key="." line="243" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/ws.py" timestamp="1611574794404">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
@@ -211,6 +205,12 @@
         <mark key="]" line="8" column="10" />
         <mark key="^" line="8" column="10" />
         <mark key="." line="8" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/ysnows/utils/.gitignore" timestamp="1612576757480">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="1" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/minsheng/city" timestamp="1612236864467">
         <mark key="'" line="7" column="13" />
