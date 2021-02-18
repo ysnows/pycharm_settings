@@ -114,7 +114,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1613631987460">
+      <file name="/Python Console" timestamp="1613632111028">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1611652569779">
@@ -144,12 +144,7 @@
         <mark key="^" line="33" column="17" />
         <mark key="." line="33" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/open_today_diary.py" timestamp="1613632018705">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="10" />
-        <mark key="^" line="8" column="10" />
-        <mark key="." line="8" column="9" />
-      </file>
+      <file name="$USER_HOME$/Documents/ysnows/utils/open_today_diary.py" timestamp="1613632174052" />
       <file name="$USER_HOME$/Documents/ysnows/utils/ws.py" timestamp="1611574794404">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
@@ -327,10 +322,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>tm_yday</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>mday</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
