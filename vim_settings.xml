@@ -144,7 +144,12 @@
         <mark key="^" line="33" column="17" />
         <mark key="." line="33" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/open_today_diary.py" timestamp="1613632174052" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/open_today_diary.py" timestamp="1613637024883">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/ws.py" timestamp="1611574794404">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
@@ -322,16 +327,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>)</text>
+        <text>today</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>today</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
-      <register name="0" type="4">
-        <text>tm_yday</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHllYXI9dG9kYXkueWVhciwKICAgIG1vbnRoPXRvZGF5Lm1vbnRoLAogICAgZGF0ZT10b2RheQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">MS4g6aG65Yq/6ICM5Li644CC6K6w5L2P77yM6YCJ5oup5aSn5LqO5Yqq5YqbICAgW14xXSAKMi4g5Y2a6KeC6ICM57qm5Y+W77yM5Y6a56ev6ICM6JaE5Y+RCjMuIOS4u+S4muaxgueUn+WtmO+8jOWJr+S4muaxguWPkeWxlQo0LiDmiJHkuI3mr5TkvaDogarmmI7vvIzmiJHmr5TkvaDml6nvvIzmr5TkvaDni6AKNS4g5a+M6LS16Zmp5Lit5rGCCg==</text>
