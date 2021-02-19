@@ -114,15 +114,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1613638552587">
+      <file name="/Python Console" timestamp="1613701843849">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1611652569779">
+      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1613701786648">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="101" column="11" />
-        <mark key="]" line="101" column="11" />
-        <mark key="." line="101" column="10" />
-        <mark key="^" line="101" column="11" />
+        <mark key="[" line="90" column="19" />
+        <mark key="]" line="90" column="19" />
+        <mark key="." line="90" column="18" />
+        <mark key="^" line="90" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/mysql/auto_bench.sh" timestamp="1611652537824">
         <mark key="[" line="2" column="128" />
@@ -144,12 +144,12 @@
         <mark key="^" line="33" column="17" />
         <mark key="." line="33" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/open_today_diary.py" timestamp="1613698308285">
+      <file name="$USER_HOME$/Documents/ysnows/utils/open_today_diary.py" timestamp="1613702283304">
         <mark key="'" line="4" column="8" />
-        <mark key="[" line="79" column="22" />
-        <mark key="]" line="80" column="17" />
-        <mark key="^" line="80" column="17" />
-        <mark key="." line="80" column="16" />
+        <mark key="[" line="52" column="1" />
+        <mark key="]" line="52" column="1" />
+        <mark key="^" line="52" column="1" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/ws.py" timestamp="1611574794404">
         <mark key="[" line="0" column="39" />
@@ -328,55 +328,55 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>pre_file.readlines()</text>
+        <text>topics[topic]</text>
       </register>
       <register name="-" type="4">
-        <text>pre_file.readlines()</text>
+        <text>topics[topic]</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpYXJ5X3BhdGg9ZGlhcnlfcGF0aCwK</text>
+      <register name="0" type="4">
+        <text>topics[topic]</text>
       </register>
       <register name="1" type="4">
-        <text>.format(
-            date=today
-        )</text>
+        <text encoding="base64">CgogICAgICAgICAgICA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="3" type="4">
+        <text>.format(
+            date=today
+        )</text>
+      </register>
+      <register name="4" type="4">
         <text>year=timestruct.tm_year,
            month=month,</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">MS4g6aG65Yq/6ICM5Li644CC6K6w5L2P77yM6YCJ5oup5aSn5LqO5Yqq5YqbICAgW14xXSAKMi4g5Y2a6KeC6ICM57qm5Y+W77yM5Y6a56ev6ICM6JaE5Y+RCjMuIOS4u+S4muaxgueUn+WtmO+8jOWJr+S4muaxguWPkeWxlQo0LiDmiJHkuI3mr5TkvaDogarmmI7vvIzmiJHmr5TkvaDml6nvvIzmr5TkvaDni6AKNS4g5a+M6LS16Zmp5Lit5rGCCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>.format(year=timestruct.tm_year,
-                                                           month=month,
-                                                           day=day
-                                                           ))</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgoKCiAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICA=</text>
+        <text>.format(year=timestruct.tm_year,
+                                                           month=month,
+                                                           day=day
+                                                           ))</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">CgoKCiAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG9zLnBhdGgubWtkaXIoKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>316</text>
