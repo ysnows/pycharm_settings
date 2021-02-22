@@ -117,12 +117,12 @@
       <file name="/Python Console" timestamp="1613982239917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/open_today_english.py" timestamp="1613984841405">
-        <mark key="'" line="2" column="16" />
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="16" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/open_today_english.py" timestamp="1614034205356">
+        <mark key="'" line="30" column="19" />
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1613701786648">
         <mark key="'" line="43" column="0" />
@@ -155,11 +155,11 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/english_date_day.ini" timestamp="1613982678664">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="7" />
-        <mark key="^" line="1" column="8" />
+      <file name="$USER_HOME$/Documents/ysnows/utils/english_date_day.ini" timestamp="1614034212789">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/mysql/bench_general_log.py" timestamp="1612579463347">
         <mark key="'" line="117" column="25" />
@@ -229,8 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/ysnows/utils/hello.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/ysnows/utils/hello.py" />
       <jump line="32" column="4" filename="$USER_HOME$/Documents/ysnows/utils/hello.py" />
       <jump line="50" column="29" filename="$USER_HOME$/Documents/ysnows/utils/hello.py" />
       <jump line="51" column="29" filename="$USER_HOME$/Documents/ysnows/utils/hello.py" />
@@ -329,6 +327,8 @@
       <jump line="19" column="18" filename="$USER_HOME$/Documents/ysnows/utils/open_today_english.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/ysnows/utils/open_today_english.py" />
       <jump line="5" column="16" filename="$USER_HOME$/Documents/ysnows/utils/open_today_english.py" />
+      <jump line="14" column="16" filename="$USER_HOME$/Documents/ysnows/utils/open_today_english.py" />
+      <jump line="30" column="19" filename="$USER_HOME$/Documents/ysnows/utils/open_today_english.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -337,16 +337,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>()</text>
+        <text>DEFAULT</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>basic</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
       <register name="0" type="4">
-        <text>()</text>
+        <text>DEFAULT</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">MjAyMS0wMi0yMiA3MAo=</text>
