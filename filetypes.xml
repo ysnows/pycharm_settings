@@ -4,6 +4,7 @@
       <mapping pattern="?????" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
+      <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="province" type="PLAIN_TEXT" />
       <mapping pattern="city" type="PLAIN_TEXT" />
