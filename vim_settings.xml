@@ -124,6 +124,13 @@
         <mark key="^" line="37" column="32" />
         <mark key="." line="37" column="38" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/main.py" timestamp="1614313359344">
+        <mark key="'" line="3" column="20" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1614036436152">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="98" column="25" />
@@ -141,12 +148,6 @@
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/mysql/auto_bench.sh" timestamp="1611652537824">
-        <mark key="[" line="2" column="128" />
-        <mark key="]" line="2" column="128" />
-        <mark key="." line="2" column="127" />
-        <mark key="^" line="2" column="128" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/diary_template.md" timestamp="1613551880241">
         <mark key="'" line="21" column="0" />
@@ -229,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="4" filename="$USER_HOME$/Documents/ysnows/utils/hello.py" />
-      <jump line="50" column="29" filename="$USER_HOME$/Documents/ysnows/utils/hello.py" />
       <jump line="51" column="29" filename="$USER_HOME$/Documents/ysnows/utils/hello.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/ysnows/utils/hello.py" />
       <jump line="4" column="91" filename="$USER_HOME$/Documents/ysnows/utils/2021-01-12/sdjyht" />
@@ -329,6 +328,8 @@
       <jump line="5" column="16" filename="$USER_HOME$/Documents/ysnows/utils/open_today_english.py" />
       <jump line="14" column="16" filename="$USER_HOME$/Documents/ysnows/utils/open_today_english.py" />
       <jump line="30" column="19" filename="$USER_HOME$/Documents/ysnows/utils/open_today_english.py" />
+      <jump line="34" column="14" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/main.py" />
+      <jump line="3" column="20" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/main.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -337,10 +338,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>0</text>
+        <text>request.method</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>request.method</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
