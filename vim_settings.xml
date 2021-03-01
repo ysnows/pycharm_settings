@@ -103,12 +103,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" timestamp="1614576290269">
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" timestamp="1614578894267">
         <mark key="'" line="93" column="4" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="5" />
+        <mark key="^" line="19" column="5" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="/Python Console" timestamp="1614575956642">
         <mark key="[" line="0" column="0" />
@@ -119,11 +119,12 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614576408714">
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="23" column="108" />
-        <mark key="^" line="23" column="108" />
-        <mark key="." line="23" column="107" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614578814039">
+        <mark key="'" line="23" column="108" />
+        <mark key="[" line="24" column="3" />
+        <mark key="]" line="24" column="3" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="24" column="2" />
       </file>
       <file name="&lt;6e9cfd8d-7aad-4b4e-8533-26a33054c78e&gt;/test.py" timestamp="1614562921283">
         <mark key="[" line="10" column="1" />
@@ -205,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="21" filename="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/ysnows/utils/resize_image.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" />
@@ -305,6 +305,7 @@
       <jump line="21" column="18" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" />
       <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" />
       <jump line="135" column="4" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" />
+      <jump line="23" column="108" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,10 +314,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>stop</text>
+        <text>music_path, True</text>
       </register>
       <register name="-" type="4">
-        <text>stop</text>
+        <text>music_path, True</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
