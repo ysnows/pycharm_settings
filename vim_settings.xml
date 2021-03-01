@@ -103,21 +103,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" timestamp="1614573035566">
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" timestamp="1614576290269">
         <mark key="'" line="93" column="4" />
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="39" />
-        <mark key="^" line="17" column="16" />
-        <mark key="." line="17" column="15" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1614571274005">
+      <file name="/Python Console" timestamp="1614575956642">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/english_date_day.ini" timestamp="1614036523820">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="3" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/conf.ini" timestamp="1614390423464">
         <mark key="[" line="0" column="8" />
@@ -137,11 +131,11 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/audio/mixer.py" timestamp="1614570689938">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="16" />
-        <mark key="^" line="16" column="16" />
-        <mark key="." line="16" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/audio/mixer.py" timestamp="1614575955679">
+        <mark key="[" line="30" column="96" />
+        <mark key="]" line="31" column="13" />
+        <mark key="^" line="31" column="13" />
+        <mark key="." line="31" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/phploy.ini" timestamp="1614326510269">
         <mark key="[" line="9" column="30" />
@@ -182,12 +176,12 @@
         <mark key="^" line="54" column="32" />
         <mark key="." line="54" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/uwsgi.ini" timestamp="1614569315935">
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/uwsgi.ini" timestamp="1614575522400">
         <mark key="'" line="12" column="11" />
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="11" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="30" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/fake_download.py" timestamp="1614045588617">
         <mark key="'" line="14" column="9" />
@@ -202,6 +196,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/uwsgi/uwsgi.pid" timestamp="1614575682662" />
       <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/.env/lib/python3.9/site-packages/mplayer/core.py" timestamp="1614317096567">
         <mark key="[" line="95" column="9" />
         <mark key="]" line="95" column="9" />
@@ -317,11 +312,11 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text encoding="base64">Im1wbGF5ZXIge30gLWxvb3Age30ge308IC9kZXYvbnVsbCA+IC9kZXYvbnVsbCAyPjEmIi5mb3JtYXQocmFkaW9fZmlsZSwgbG9vcCwgc2h1ZmZsZSk=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">Im1wbGF5ZXIge30gLWxvb3Age30ge308IC9kZXYvbnVsbCA+IC9kZXYvbnVsbCAyPjEmIi5mb3JtYXQocmFkaW9fZmlsZSwgbG9vcCwgc2h1ZmZsZSk=</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
