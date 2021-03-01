@@ -157,7 +157,7 @@
         <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/.env/lib/python3.9/site-packages/werkzeug/serving.py" timestamp="1614570815856" />
-      <file name="/Dummy.txt" timestamp="1614569639390">
+      <file name="/Dummy.txt" timestamp="1614582789483">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -169,6 +169,12 @@
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="12" />
+      </file>
+      <file name="$USER_HOME$/www/php_ailiya/.gitignore" timestamp="1614582849600">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/open_today_diary.py" timestamp="1614562161358">
         <mark key="'" line="4" column="8" />
@@ -197,12 +203,6 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/uwsgi/uwsgi.pid" timestamp="1614575682662" />
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/.env/lib/python3.9/site-packages/mplayer/core.py" timestamp="1614317096567">
-        <mark key="[" line="95" column="9" />
-        <mark key="]" line="95" column="9" />
-        <mark key="^" line="95" column="9" />
-        <mark key="." line="95" column="8" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="29" column="0" filename="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" />
