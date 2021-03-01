@@ -103,7 +103,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1614418657552">
+      <file name="/Python Console" timestamp="1614562056096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1613981979794">
@@ -141,7 +141,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1614316531291">
+      <file name="/Dummy.txt" timestamp="1614562081426">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -154,12 +154,12 @@
         <mark key="^" line="37" column="32" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/main.py" timestamp="1614418741388">
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/main.py" timestamp="1614561576625">
         <mark key="'" line="126" column="8" />
-        <mark key="[" line="69" column="19" />
-        <mark key="]" line="69" column="19" />
-        <mark key="." line="69" column="18" />
-        <mark key="^" line="69" column="19" />
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="13" />
+        <mark key="^" line="26" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1614036436152">
         <mark key="'" line="43" column="0" />
@@ -168,12 +168,12 @@
         <mark key="." line="98" column="24" />
         <mark key="^" line="98" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/open_today_diary.py" timestamp="1613981992883">
+      <file name="$USER_HOME$/Documents/ysnows/utils/open_today_diary.py" timestamp="1614562161358">
         <mark key="'" line="4" column="8" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="44" column="21" />
+        <mark key="^" line="44" column="21" />
+        <mark key="." line="44" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/english_date_day" timestamp="1613982178263">
         <mark key="[" line="0" column="0" />
@@ -323,16 +323,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>f</text>
+        <text>path</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMSkKICAgIHRocmVhZF9ydW5uaW5nID0gVHJ1ZQo=</text>
+      <register name="0" type="4">
+        <text>dirname</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRocmVhZF9ydW5uaW5nID0gVHJ1ZQo=</text>
