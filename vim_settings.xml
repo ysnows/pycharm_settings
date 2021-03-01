@@ -103,12 +103,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" timestamp="1614578894267">
-        <mark key="'" line="93" column="4" />
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="19" column="5" />
-        <mark key="^" line="19" column="5" />
-        <mark key="." line="19" column="4" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" timestamp="1614578958527">
+        <mark key="'" line="95" column="4" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/Python Console" timestamp="1614575956642">
         <mark key="[" line="0" column="0" />
@@ -119,10 +119,10 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614578814039">
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614578944634">
         <mark key="'" line="23" column="108" />
-        <mark key="[" line="24" column="3" />
-        <mark key="]" line="24" column="3" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="104" />
         <mark key="^" line="24" column="3" />
         <mark key="." line="24" column="2" />
       </file>
@@ -314,16 +314,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>music_path, True</text>
+        <text>res</text>
       </register>
       <register name="-" type="4">
-        <text>music_path, True</text>
+        <text>res</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
-      <register name="0" type="4">
-        <text>audio</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBwcmludCgic3RhcnQ6e30iLmZvcm1hdChtaXhlci5zdGFydCgiaHR0cDovL2ZpbGUucXMxMTAuY29tL2hlbGl5dW5kb25nL2F1ZGlvLzIwMjEwMjE4MTMwOTM4MTg4Lm1wMyIpKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
