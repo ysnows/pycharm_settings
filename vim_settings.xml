@@ -103,11 +103,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" timestamp="1614563601405">
-        <mark key="[" line="48" column="22" />
-        <mark key="]" line="48" column="22" />
-        <mark key="^" line="48" column="22" />
-        <mark key="." line="48" column="21" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" timestamp="1614569708850">
+        <mark key="'" line="88" column="4" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="3" />
       </file>
       <file name="/Python Console" timestamp="1614563800782">
         <mark key="[" line="0" column="0" />
@@ -124,17 +125,23 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614565031439">
-        <mark key="[" line="39" column="71" />
-        <mark key="]" line="39" column="71" />
-        <mark key="^" line="39" column="71" />
-        <mark key="." line="39" column="70" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614569442216">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="&lt;6e9cfd8d-7aad-4b4e-8533-26a33054c78e&gt;/test.py" timestamp="1614562921283">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="10" column="1" />
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/audio/mixer.py" timestamp="1614569224397">
+        <mark key="[" line="14" column="90" />
+        <mark key="]" line="14" column="90" />
+        <mark key="^" line="14" column="90" />
+        <mark key="." line="14" column="89" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/phploy.ini" timestamp="1614326510269">
         <mark key="[" line="9" column="30" />
@@ -148,19 +155,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1614562786765">
+      <file name="/Dummy.txt" timestamp="1614569639390">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/.env/lib/python3.9/site-packages/pygame/constants.pyi" timestamp="1614322105161" />
-      <file name="$USER_HOME$/Documents/ysnows/utils/open_today_english.py" timestamp="1614036170142">
-        <mark key="'" line="37" column="19" />
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="37" column="38" />
-        <mark key="^" line="37" column="32" />
-        <mark key="." line="37" column="38" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/main.py" timestamp="1614562185245">
         <mark key="'" line="126" column="8" />
         <mark key="[" line="22" column="12" />
@@ -188,12 +188,12 @@
         <mark key="^" line="54" column="32" />
         <mark key="." line="54" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/uwsgi.ini" timestamp="1614326035057">
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/uwsgi.ini" timestamp="1614569315935">
         <mark key="'" line="12" column="11" />
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="30" column="37" />
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/fake_download.py" timestamp="1614045588617">
         <mark key="'" line="14" column="9" />
@@ -216,10 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/ysnows/utils/2021-01-12/hello" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/ysnows/utils/2021-01-12/sdjyht" />
-      <jump line="28" column="16" filename="$USER_HOME$/Documents/ysnows/utils/hello.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Documents/ysnows/utils/hello.py" />
       <jump line="14" column="21" filename="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/ysnows/utils/resize_image.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" />
@@ -316,6 +312,10 @@
       <jump line="29" column="35" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/uwsgi.ini" />
       <jump line="123" column="8" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/main.py" />
       <jump line="12" column="11" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/uwsgi.ini" />
+      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" />
+      <jump line="21" column="18" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" />
+      <jump line="135" column="4" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,49 +324,50 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>file</text>
+        <text>main</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHggPSB0aHJlYWRpbmcuVGhyZWFkKG5hbWU9InBsYXlfbXVzaWMiLCB0YXJnZXQ9dGhyZWFkX2Z1bmN0aW9uLCBhcmdzPSgpLCBkYWVtb249RmFsc2UpCg==</text>
+        <text encoding="base64">ZGVmIGlzX2J1c3koKToKICAgIHJlcyA9IHN1YnByb2Nlc3MuZ2V0b3V0cHV0KCJwcyAtYWN4byBwaWQsY29tbSB8IGdyZXAgbXBsYXllciIuZm9ybWF0KG11c2ljX3BhdGgpKQogICAgcmV0dXJuIHJlcyAhPSAiIgoKCmRlZiBzdG9wKCk6CiAgICByZXMgPSBzdWJwcm9jZXNzLmdldG91dHB1dCgicHMgLWFjeG8gcGlkLGNvbW0gfCBncmVwIG1wbGF5ZXIiLmZvcm1hdChtdXNpY19wYXRoKSkKICAgIGlmIHJlcyAhPSAiIjoKICAgICAgICByZXNhcnIgPSByZXMuc3BsaXQoJyAnKQogICAgICAgIHByaW50KHJlc2FycikKICAgICAgICBzdWJwcm9jZXNzLmdldG91dHB1dCgia2lsbCAtOSB7fSIuZm9ybWF0KHJlc2FyclswXSkpCiAgICAgICAgcmV0dXJuIG5vdCBpc19idXN5KCkKICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIFRydWUKCgpkZWYgc3RhcnQocmFkaW9fZmlsZSwgc2h1ZmZsZT1GYWxzZSwgbG9vcD0xKToKICAgIGlmIG9zLnBhdGguaXNkaXIocmFkaW9fZmlsZSk6CiAgICAgICAgcmFkaW9fZmlsZSA9ICJ7fS8qLm1wMyIuZm9ybWF0KHJhZGlvX2ZpbGUpCgogICAgaWYgc2h1ZmZsZToKICAgICAgICBzaHVmZmxlID0gIi1zaHVmZmxlIgogICAgZWxzZToKICAgICAgICBzaHVmZmxlID0gIiIKCiAgICBzdWJwcm9jZXNzLmdldHN0YXR1c291dHB1dCgKICAgICAgICAibXBsYXllciB7fSAtbG9vcCB7fSB7fTwgL2Rldi9udWxsID4gL2Rldi9udWxsIDI+MSYiLmZvcm1hdChyYWRpb19maWxlLCBsb29wLCBzaHVmZmxlKSkKICAgIHJldHVybiBpc19idXN5KCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHRocmVhZF9ydW5uaW5nID0gVHJ1ZQo=</text>
+      <register name="1" type="4">
+        <text>.format(
+                resarr[0]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaGVsbG8iKQo=</text>
+        <text encoding="base64">ICAgICMgcmVzID0gc3VicHJvY2Vzcy5nZXRzdGF0dXNvdXRwdXQoIm1wbGF5ZXIge30iLmZvcm1hdChmaWxlKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRocmVhZGluZy5jdXJyZW50VGhyZWFkKCkubmFtZSkKICAgIHByaW50KCJoZWxsbyIpCg==</text>
+        <text encoding="base64">cmVzID0gc3VicHJvY2Vzcy5nZXRvdXRwdXQoInBzIC1hY3hvIHBpZCxjb21tIHwgZ3JlcCBtcGxheWVyIi5mb3JtYXQobXVzaWNfcGF0aCkpCgppZiByZXMgPT0gIiI6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bXVzaWNfcGF0aCA9ICIvVXNlcnMveXNub3dzL1B5Y2hhcm1Qcm9qZWN0cy9yYXNwYmVycnlfbXBsYXllci9tdXNpYyIKZmlsZXMgPSBnbG9iLmdsb2IoJ3t9LyoubXAzJy5mb3JtYXQobXVzaWNfcGF0aCkpCnBvc2l0aW9uID0gcmFuZG9tLnJhbmRpbnQoMCwgbGVuKGZpbGVzKSAtIDEpCmZpbGUgPSBmaWxlc1twb3NpdGlvbl0KcHJpbnQoZmlsZSkKbWl4ZXIubXVzaWMubG9hZChmaWxlKQptaXhlci5tdXNpYy5wbGF5KCkK</text>
+        <text encoding="base64">ICAgIHRocmVhZF9ydW5uaW5nID0gVHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBtaXhlci5tdXNpYy5sb2FkKGZpbGUpCiMgbWl4ZXIubXVzaWMucGxheSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaGVsbG8iKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1peGVyLm11c2ljLmxvYWQoJy9Vc2Vycy95c25vd3MvRGVza3RvcC9hdWRpb19jb21wcmVzc2VkL3Rlc3QubXAzJykK</text>
+        <text encoding="base64">ICAgIHByaW50KHRocmVhZGluZy5jdXJyZW50VGhyZWFkKCkubmFtZSkKICAgIHByaW50KCJoZWxsbyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1peGVyLm11c2ljLmxvYWQoJy9Vc2Vycy95c25vd3MvRGVza3RvcC9hdWRpb19jb21wcmVzc2VkL3Rlc3QubXAzJykK</text>
+        <text encoding="base64">bXVzaWNfcGF0aCA9ICIvVXNlcnMveXNub3dzL1B5Y2hhcm1Qcm9qZWN0cy9yYXNwYmVycnlfbXBsYXllci9tdXNpYyIKZmlsZXMgPSBnbG9iLmdsb2IoJ3t9LyoubXAzJy5mb3JtYXQobXVzaWNfcGF0aCkpCnBvc2l0aW9uID0gcmFuZG9tLnJhbmRpbnQoMCwgbGVuKGZpbGVzKSAtIDEpCmZpbGUgPSBmaWxlc1twb3NpdGlvbl0KcHJpbnQoZmlsZSkKbWl4ZXIubXVzaWMubG9hZChmaWxlKQptaXhlci5tdXNpYy5wbGF5KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1peGVyLm11c2ljLmdldF9wb3MoKQo=</text>
+        <text encoding="base64">IyBtaXhlci5tdXNpYy5sb2FkKGZpbGUpCiMgbWl4ZXIubXVzaWMucGxheSgpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG1peGVyLm11c2ljLmxvYWQoJy9Vc2Vycy95c25vd3MvRGVza3RvcC9hdWRpb19jb21wcmVzc2VkL3Rlc3QubXAzJykK</text>
       </register>
       <register name=":" type="4">
         <text>316</text>
