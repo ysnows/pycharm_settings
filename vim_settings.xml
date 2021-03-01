@@ -118,11 +118,11 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614562954687">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="42" />
-        <mark key="." line="18" column="41" />
-        <mark key="^" line="18" column="42" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614563134683">
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="19" column="15" />
+        <mark key="^" line="19" column="16" />
       </file>
       <file name="&lt;6e9cfd8d-7aad-4b4e-8533-26a33054c78e&gt;/test.py" timestamp="1614562921283">
         <mark key="[" line="10" column="1" />
@@ -324,7 +324,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>path</text>
+        <text>/home/www/2021228.music.com/music</text>
       </register>
       <register name="-" type="4">
         <text>path</text>
@@ -333,7 +333,7 @@
         <text>sche</text>
       </register>
       <register name="0" type="4">
-        <text>dirname</text>
+        <text>/home/www/2021228.music.com/music</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRocmVhZF9ydW5uaW5nID0gVHJ1ZQo=</text>
