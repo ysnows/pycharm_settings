@@ -103,14 +103,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" timestamp="1614571243566">
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" timestamp="1614573035566">
         <mark key="'" line="93" column="4" />
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="22" />
-        <mark key="^" line="19" column="22" />
-        <mark key="." line="19" column="21" />
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="18" column="39" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="17" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1614570810743">
+      <file name="/Python Console" timestamp="1614571274005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/english_date_day.ini" timestamp="1614036523820">
@@ -196,11 +196,11 @@
         <mark key="^" line="62" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/gitignore" timestamp="1614327167187">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="4" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/gitignore" timestamp="1614573426748">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/.env/lib/python3.9/site-packages/mplayer/core.py" timestamp="1614317096567">
         <mark key="[" line="95" column="9" />
@@ -317,51 +317,51 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="*" type="4">
-        <text>None</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
       <register name="0" type="4">
-        <text>shuffle</text>
+        <text>audio</text>
       </register>
-      <register name="1" type="4">
-        <text>.format(
-                resarr[0]</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcmVzID0gc3VicHJvY2Vzcy5nZXRzdGF0dXNvdXRwdXQoIm1wbGF5ZXIge30iLmZvcm1hdChmaWxlKSkK</text>
+      <register name="2" type="4">
+        <text>.format(
+                resarr[0]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVzID0gc3VicHJvY2Vzcy5nZXRvdXRwdXQoInBzIC1hY3hvIHBpZCxjb21tIHwgZ3JlcCBtcGxheWVyIi5mb3JtYXQobXVzaWNfcGF0aCkpCgppZiByZXMgPT0gIiI6Cg==</text>
+        <text encoding="base64">ICAgICMgcmVzID0gc3VicHJvY2Vzcy5nZXRzdGF0dXNvdXRwdXQoIm1wbGF5ZXIge30iLmZvcm1hdChmaWxlKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRocmVhZF9ydW5uaW5nID0gVHJ1ZQo=</text>
+        <text encoding="base64">cmVzID0gc3VicHJvY2Vzcy5nZXRvdXRwdXQoInBzIC1hY3hvIHBpZCxjb21tIHwgZ3JlcCBtcGxheWVyIi5mb3JtYXQobXVzaWNfcGF0aCkpCgppZiByZXMgPT0gIiI6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaGVsbG8iKQo=</text>
+        <text encoding="base64">ICAgIHRocmVhZF9ydW5uaW5nID0gVHJ1ZQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRocmVhZGluZy5jdXJyZW50VGhyZWFkKCkubmFtZSkKICAgIHByaW50KCJoZWxsbyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaGVsbG8iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bXVzaWNfcGF0aCA9ICIvVXNlcnMveXNub3dzL1B5Y2hhcm1Qcm9qZWN0cy9yYXNwYmVycnlfbXBsYXllci9tdXNpYyIKZmlsZXMgPSBnbG9iLmdsb2IoJ3t9LyoubXAzJy5mb3JtYXQobXVzaWNfcGF0aCkpCnBvc2l0aW9uID0gcmFuZG9tLnJhbmRpbnQoMCwgbGVuKGZpbGVzKSAtIDEpCmZpbGUgPSBmaWxlc1twb3NpdGlvbl0KcHJpbnQoZmlsZSkKbWl4ZXIubXVzaWMubG9hZChmaWxlKQptaXhlci5tdXNpYy5wbGF5KCkK</text>
+        <text encoding="base64">ICAgIHByaW50KHRocmVhZGluZy5jdXJyZW50VGhyZWFkKCkubmFtZSkKICAgIHByaW50KCJoZWxsbyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBtaXhlci5tdXNpYy5sb2FkKGZpbGUpCiMgbWl4ZXIubXVzaWMucGxheSgpCg==</text>
+        <text encoding="base64">bXVzaWNfcGF0aCA9ICIvVXNlcnMveXNub3dzL1B5Y2hhcm1Qcm9qZWN0cy9yYXNwYmVycnlfbXBsYXllci9tdXNpYyIKZmlsZXMgPSBnbG9iLmdsb2IoJ3t9LyoubXAzJy5mb3JtYXQobXVzaWNfcGF0aCkpCnBvc2l0aW9uID0gcmFuZG9tLnJhbmRpbnQoMCwgbGVuKGZpbGVzKSAtIDEpCmZpbGUgPSBmaWxlc1twb3NpdGlvbl0KcHJpbnQoZmlsZSkKbWl4ZXIubXVzaWMubG9hZChmaWxlKQptaXhlci5tdXNpYy5wbGF5KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1peGVyLm11c2ljLmxvYWQoJy9Vc2Vycy95c25vd3MvRGVza3RvcC9hdWRpb19jb21wcmVzc2VkL3Rlc3QubXAzJykK</text>
+        <text encoding="base64">IyBtaXhlci5tdXNpYy5sb2FkKGZpbGUpCiMgbWl4ZXIubXVzaWMucGxheSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>316</text>
