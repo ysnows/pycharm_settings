@@ -103,7 +103,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1614562056096">
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" timestamp="1614563601405">
+        <mark key="[" line="48" column="22" />
+        <mark key="]" line="48" column="22" />
+        <mark key="^" line="48" column="22" />
+        <mark key="." line="48" column="21" />
+      </file>
+      <file name="/Python Console" timestamp="1614563800782">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/english_date_day.ini" timestamp="1614036523820">
@@ -118,11 +124,11 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614563134683">
-        <mark key="[" line="18" column="48" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="15" />
-        <mark key="^" line="19" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614563861778">
+        <mark key="[" line="39" column="82" />
+        <mark key="]" line="39" column="83" />
+        <mark key="^" line="39" column="83" />
+        <mark key="." line="39" column="82" />
       </file>
       <file name="&lt;6e9cfd8d-7aad-4b4e-8533-26a33054c78e&gt;/test.py" timestamp="1614562921283">
         <mark key="[" line="10" column="1" />
@@ -175,12 +181,6 @@
         <mark key="]" line="44" column="21" />
         <mark key="^" line="44" column="21" />
         <mark key="." line="44" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/english_date_day" timestamp="1613982178263">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/.env/lib/python3.9/site-packages/playsound.py" timestamp="1614318166754">
         <mark key="[" line="54" column="32" />
@@ -324,16 +324,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>/home/www/2021228.music.com/music</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
-      <register name="0" type="4">
-        <text>/home/www/2021228.music.com/music</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHggPSB0aHJlYWRpbmcuVGhyZWFkKG5hbWU9InBsYXlfbXVzaWMiLCB0YXJnZXQ9dGhyZWFkX2Z1bmN0aW9uLCBhcmdzPSgpLCBkYWVtb249RmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRocmVhZF9ydW5uaW5nID0gVHJ1ZQo=</text>
