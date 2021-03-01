@@ -103,21 +103,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" timestamp="1614578958527">
-        <mark key="'" line="95" column="4" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" timestamp="1614581401492">
+        <mark key="'" line="93" column="4" />
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="20" column="48" />
+        <mark key="^" line="20" column="48" />
+        <mark key="." line="20" column="47" />
       </file>
       <file name="/Python Console" timestamp="1614575956642">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/conf.ini" timestamp="1614390423464">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/README.md" timestamp="1614582053498">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/conf.ini" timestamp="1614581319164">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614578944634">
         <mark key="'" line="23" column="108" />
@@ -144,11 +150,11 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/requirements.txt" timestamp="1614562377133">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="4" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/requirements.txt" timestamp="1614580679951">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/.env/lib/python3.9/site-packages/werkzeug/serving.py" timestamp="1614570815856" />
       <file name="/Dummy.txt" timestamp="1614569639390">
@@ -177,19 +183,12 @@
         <mark key="^" line="54" column="32" />
         <mark key="." line="54" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/uwsgi.ini" timestamp="1614575522400">
-        <mark key="'" line="12" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/uwsgi.ini" timestamp="1614581354583">
+        <mark key="'" line="4" column="7" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="31" column="0" />
         <mark key="." line="30" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/ysnows/utils/fake_download.py" timestamp="1614045588617">
-        <mark key="'" line="14" column="9" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="62" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/gitignore" timestamp="1614573426748">
         <mark key="[" line="5" column="0" />
@@ -206,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/ysnows/utils/resize_image.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" />
       <jump line="21" column="4" filename="$USER_HOME$/Documents/ysnows/utils/bench_general_log.py" />
@@ -306,6 +304,7 @@
       <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" />
       <jump line="135" column="4" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/app.py" />
       <jump line="23" column="108" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" />
+      <jump line="4" column="7" filename="$USER_HOME$/PycharmProjects/raspberry_mplayer/uwsgi.ini" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,51 +312,69 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="*" type="4">
-        <text>res</text>
+      <register name="*" type="8">
+        <text>0
+0
+0
+0
+0
+0
+0</text>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>加</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyBwcmludCgic3RhcnQ6e30iLmZvcm1hdChtaXhlci5zdGFydCgiaHR0cDovL2ZpbGUucXMxMTAuY29tL2hlbGl5dW5kb25nL2F1ZGlvLzIwMjEwMjE4MTMwOTM4MTg4Lm1wMyIpKSkK</text>
+      <register name="0" type="8">
+        <text>0
+0
+0
+0
+0
+0
+0</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>2
+3
+4
+6
+5
+7
+8</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">PiA1LiDlkIzmraXpn7PpopHmlofku7bliLDmnKzlnLAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>.format(
                 resarr[0]</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcmVzID0gc3VicHJvY2Vzcy5nZXRzdGF0dXNvdXRwdXQoIm1wbGF5ZXIge30iLmZvcm1hdChmaWxlKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cmVzID0gc3VicHJvY2Vzcy5nZXRvdXRwdXQoInBzIC1hY3hvIHBpZCxjb21tIHwgZ3JlcCBtcGxheWVyIi5mb3JtYXQobXVzaWNfcGF0aCkpCgppZiByZXMgPT0gIiI6Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRocmVhZF9ydW5uaW5nID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICMgcmVzID0gc3VicHJvY2Vzcy5nZXRzdGF0dXNvdXRwdXQoIm1wbGF5ZXIge30iLmZvcm1hdChmaWxlKSkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaGVsbG8iKQo=</text>
+        <text encoding="base64">cmVzID0gc3VicHJvY2Vzcy5nZXRvdXRwdXQoInBzIC1hY3hvIHBpZCxjb21tIHwgZ3JlcCBtcGxheWVyIi5mb3JtYXQobXVzaWNfcGF0aCkpCgppZiByZXMgPT0gIiI6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRocmVhZGluZy5jdXJyZW50VGhyZWFkKCkubmFtZSkKICAgIHByaW50KCJoZWxsbyIpCg==</text>
+        <text encoding="base64">ICAgIHRocmVhZF9ydW5uaW5nID0gVHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bXVzaWNfcGF0aCA9ICIvVXNlcnMveXNub3dzL1B5Y2hhcm1Qcm9qZWN0cy9yYXNwYmVycnlfbXBsYXllci9tdXNpYyIKZmlsZXMgPSBnbG9iLmdsb2IoJ3t9LyoubXAzJy5mb3JtYXQobXVzaWNfcGF0aCkpCnBvc2l0aW9uID0gcmFuZG9tLnJhbmRpbnQoMCwgbGVuKGZpbGVzKSAtIDEpCmZpbGUgPSBmaWxlc1twb3NpdGlvbl0KcHJpbnQoZmlsZSkKbWl4ZXIubXVzaWMubG9hZChmaWxlKQptaXhlci5tdXNpYy5wbGF5KCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaGVsbG8iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBtaXhlci5tdXNpYy5sb2FkKGZpbGUpCiMgbWl4ZXIubXVzaWMucGxheSgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRocmVhZGluZy5jdXJyZW50VGhyZWFkKCkubmFtZSkKICAgIHByaW50KCJoZWxsbyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>316</text>

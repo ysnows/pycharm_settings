@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="9">
+        <list size="10">
           <item index="0" class="java.lang.String" itemvalue="beautifulsoup4" />
           <item index="1" class="java.lang.String" itemvalue="GitPython" />
           <item index="2" class="java.lang.String" itemvalue="html5lib" />
@@ -13,6 +13,7 @@
           <item index="6" class="java.lang.String" itemvalue="Pillow" />
           <item index="7" class="java.lang.String" itemvalue="pygame" />
           <item index="8" class="java.lang.String" itemvalue="Flask" />
+          <item index="9" class="java.lang.String" itemvalue="uwsgi" />
         </list>
       </value>
     </option>
