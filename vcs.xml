@@ -122,6 +122,10 @@
           <option name="url" value="https://git.quansuwangluo.com/ysnows/php_apply.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.quansuwangluo.com/ysnows/php_ailiya.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/www" />
