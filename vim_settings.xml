@@ -106,11 +106,6 @@
       <file name="/Python Console" timestamp="1614562056096">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1613981979794">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/english_date_day.ini" timestamp="1614036523820">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="8" />
@@ -123,11 +118,17 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614323895483">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="18" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="25" column="46" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614562954687">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="41" />
+        <mark key="^" line="18" column="42" />
+      </file>
+      <file name="&lt;6e9cfd8d-7aad-4b4e-8533-26a33054c78e&gt;/test.py" timestamp="1614562921283">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/phploy.ini" timestamp="1614326510269">
         <mark key="[" line="9" column="30" />
@@ -135,13 +136,13 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/requirements.txt" timestamp="1614324824973">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/requirements.txt" timestamp="1614562377133">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1614562081426">
+      <file name="/Dummy.txt" timestamp="1614562786765">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -154,12 +155,12 @@
         <mark key="^" line="37" column="32" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/main.py" timestamp="1614561576625">
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/main.py" timestamp="1614562185245">
         <mark key="'" line="126" column="8" />
-        <mark key="[" line="26" column="14" />
-        <mark key="]" line="26" column="14" />
-        <mark key="." line="26" column="13" />
-        <mark key="^" line="26" column="14" />
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="11" />
+        <mark key="^" line="22" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/ysnows/utils/mysql/arrage_general_log.py" timestamp="1614036436152">
         <mark key="'" line="43" column="0" />
