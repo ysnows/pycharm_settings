@@ -119,11 +119,11 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614571030658">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="13" />
-        <mark key="^" line="26" column="13" />
-        <mark key="." line="26" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/raspberry_mplayer/test.py" timestamp="1614576408714">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="108" />
+        <mark key="^" line="23" column="108" />
+        <mark key="." line="23" column="107" />
       </file>
       <file name="&lt;6e9cfd8d-7aad-4b4e-8533-26a33054c78e&gt;/test.py" timestamp="1614562921283">
         <mark key="[" line="10" column="1" />
@@ -313,10 +313,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">Im1wbGF5ZXIge30gLWxvb3Age30ge308IC9kZXYvbnVsbCA+IC9kZXYvbnVsbCAyPjEmIi5mb3JtYXQocmFkaW9fZmlsZSwgbG9vcCwgc2h1ZmZsZSk=</text>
+        <text>stop</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Im1wbGF5ZXIge30gLWxvb3Age30ge308IC9kZXYvbnVsbCA+IC9kZXYvbnVsbCAyPjEmIi5mb3JtYXQocmFkaW9fZmlsZSwgbG9vcCwgc2h1ZmZsZSk=</text>
+        <text>stop</text>
       </register>
       <register name="/" type="4">
         <text>sche</text>
